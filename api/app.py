@@ -16,3 +16,21 @@ def get_current_time():
 
 if __name__ == "__main__":
     app.run()
+
+
+from Bio import SeqIO
+from Bio.Seq import Seq
+
+seq = Seq("AGTA")
+
+assert Seq("TCAT") == seq.complement()
+
+
+def load_seq():
+    # curl https://www.ebi.ac.uk/ena/browser/api/fasta/AP006852.1?download=true -o ap006852.fasta
+    records = list(SeqIO.parse("ap006852.fasta", "fasta"))
+    dna = records[0]
+
+    print(dna.name)
+    print(dna.description)
+    print(dna.seq[:100])

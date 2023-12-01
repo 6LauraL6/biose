@@ -1,12 +1,12 @@
 # Bio Kekule
 
 ```sh
-docker run --rm -d --name kekule -p 80:80 registry.gitlab.com/xtec/dokbio-kekule
+docker run --rm -d --name kekule -p 80:80 registry.gitlab.com/xtec/bio-sequence
 ```
 
 ## Develop
 
-Install dependencies and close terminal :
+Install dependencies:
 
 ```sh
 ./init.sh
