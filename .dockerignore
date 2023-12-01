@@ -1,0 +1,8 @@
+Dockerfile
+.dockerignore
+__pycache__
+node_modules
+npm-debug.log
+README.md
+.next
+.git
