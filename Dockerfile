@@ -27,8 +27,13 @@ COPY --from=builder /app/out ./out
 
 ## Flask
 
+# TODO build on runner
+RUN apk --no-cache add musl-dev linux-headers g++
+
 COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt --no-cache-dir
+
+RUN apk del musl-dev linux-headers g++
 
 COPY api/ .
 

@@ -1,3 +1,3 @@
 # TODO
 
-* Add zoom button
+* Fix docker build
