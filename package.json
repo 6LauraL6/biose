@@ -11,6 +11,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bionode-seq": "^0.1.1",
     "next": "14.0.2",
     "react": "^18",
     "react-dom": "^18"
