@@ -1,5 +1,6 @@
-import time
 from flask import Flask
+import sequence
+import time
 
 app = Flask(__name__, static_folder="out", static_url_path="/")
 
@@ -12,6 +13,13 @@ def index():
 @app.route("/api/time")
 def get_current_time():
     return {"time": time.time()}
+
+
+@app.route("/api/sequence/<seq>")
+def get_sequence_info(seq):
+    info = sequence.info(seq)
+
+    return {"info": info}
 
 
 if __name__ == "__main__":
