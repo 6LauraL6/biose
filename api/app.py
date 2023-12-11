@@ -1,11 +1,13 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, Response, json
 from Bio import SeqIO
 from Bio.Seq import Seq
 from Bio.SeqUtils import GC, seq3
+from flask_cors import CORS
 import sequence
 import time
 
 app = Flask(__name__, static_folder="out", static_url_path="/")
+CORS(app)
 
 ## Web Services Sessió 2.
 
@@ -97,23 +99,35 @@ def translate():
     data = request.get_json()
 
     mrna_sequence = data.get('mrna_sequence', '')
+    # Verificar que les bases siguin correctes
+    arn_seq_valid = all(base in "ACGUacgu" for base in mrna_sequence)
 
-    # Taula traducció estandard, es pot enviar una altra.
-    translation_table = data.get('translation_table', 1)
+    if arn_seq_valid:
+        # Normalitzar majúscules i minúscules
+        seq_normalitzada = Seq(mrna_sequence.upper())
+        # Taula traducció estandard, es pot enviar una altra.
+        translation_table = data.get('translation_table', 1)
 
-    protein_seq = translate_mrna(mrna_sequence, translation_table)
-    cds_segments, incomplete_proteins = analyze_cds(protein_seq)
+        protein_seq = translate_mrna(mrna_sequence, translation_table)
+        cds_segments, incomplete_proteins = analyze_cds(protein_seq)
 
-    amino_acids = {acid: seq3(acid) for acid in str(protein_seq)}
+        amino_acids = {acid: seq3(acid) for acid in str(protein_seq)}
 
-    result = {
-        'protein_sequence': str(protein_seq),
-        'cds_segments': cds_segments,
-        'incomplete_proteins': incomplete_proteins,
-        'amino_acids': amino_acids,
-    }
-
-    return jsonify(result)
+        result = {
+            'success': True,
+            'protein_sequence': str(protein_seq),
+            'cds_segments': cds_segments,
+            'incomplete_proteins': incomplete_proteins,
+            'amino_acids': amino_acids,
+        }
+    else:
+        result = {
+            "success": False,
+            "error": "La seqüència d'ADN conté bases no vàlides."
+        }
+    json_string = json.dumps(result,ensure_ascii = False)
+    response = Response(json_string,content_type="application/json; charset=utf-8" )
+    return response
 
 ## Web Services necessaris per arrencar la aplicació.
 

@@ -55,6 +55,7 @@ export default function Board() {
       {/* Mostra el percentatge GC només si s'ha introduït alguna lletra */}
       {dna.length > 0 && <p>Percentatge GC: {gcPercentage.toFixed(2)}%</p>}
       <p className="text-center mt-10">The current time is {currentTime}.</p>
+      <a href="./arnm-translation">Translate ARN to Proteins</a>
     </main>
   );
 }
