@@ -7,3 +7,4 @@ def info(seq):
     result = str(seq.reverse_complement())
 
     return result
+
