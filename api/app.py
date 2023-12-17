@@ -2,12 +2,10 @@ from flask import Flask, request, jsonify, Response, json
 from Bio import SeqIO
 from Bio.Seq import Seq
 from Bio.SeqUtils import GC, seq3
-from flask_cors import CORS
 import sequence
 import time
 
 app = Flask(__name__, static_folder="out", static_url_path="/")
-CORS(app)
 
 ## Web Services Sessió 2.
 
