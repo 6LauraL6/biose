@@ -4,8 +4,11 @@ from Bio.Seq import Seq
 from Bio.SeqUtils import GC, seq3
 import sequence
 import time
+from flask_cors import CORS
 
 app = Flask(__name__, static_folder="out", static_url_path="/")
+# CORS(app, resources={r"/*": {"origins": "*"}})
+cors = CORS(app, resources={r"/translate": {"origins": "http://localhost:3000"}})
 
 ## Web Services Sessió 2.
 
@@ -125,6 +128,8 @@ def translate():
         }
     json_string = json.dumps(result,ensure_ascii = False)
     response = Response(json_string,content_type="application/json; charset=utf-8" )
+    response.headers.add('Access-Control-Allow-Origin', 'http://localhost:3000')  # Ajusta l'origen
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type')
     return response
 
 ## Web Services necessaris per arrencar la aplicació.
