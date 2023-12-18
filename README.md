@@ -1,6 +1,7 @@
 # Bio Kekule
 
-Projecte original tret de:
+Provem de fer un canvi i a veure si funciona CI
+
 ```sh
 docker run --rm -d --name kekule -p 80:80 registry.gitlab.com/xtec/bio-sequence
 ```
