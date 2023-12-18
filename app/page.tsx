@@ -47,6 +47,7 @@ export default function Board() {
   
   return (
     <main className="p-6">
+      <h3>Demo Biopython & Bionode</h3>
       <div className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
         <Input id="dna-coding" label="DNA Coding Strand" seq={dna} handler={handle} />
         <Input id="dna-template" label="DNA Template strand" seq={dna_template} handler={handle} />
@@ -54,7 +55,7 @@ export default function Board() {
       </div>
       {/* Mostra el percentatge GC només si s'ha introduït alguna lletra */}
       {dna.length > 0 && <p>Percentatge GC: {gcPercentage.toFixed(2)}%</p>}
-      <p className="text-center mt-10">The current time is {currentTime}.</p>
+      <!-- <p className="text-center mt-10">The current time is {currentTime}.</p> -->
       <a href="./arnm-translation">Translate ARN to Proteins</a>
     </main>
   );
