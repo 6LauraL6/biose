@@ -36,3 +36,7 @@ or:
 npm run next-dev
 npm run flask-dev
 ```
+
+# Navigation
+
+https://medium.com/@a.pirus/how-to-create-a-responsive-navigation-bar-in-next-js-13-e5540789a017

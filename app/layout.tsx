@@ -21,6 +21,7 @@ export default function RootLayout({
         <title>Bio Sequence</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
+      <Navigation />
       <body className={inter.className}>{children}
       </body>
     </html>
