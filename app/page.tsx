@@ -47,7 +47,7 @@ export default function Board() {
 
   const handleTranslateRna = async () => {
     try {
-      const response = await fetch('http://localhost:5000/translate', {
+      const response = await fetch('${process.env.NEXT_PUBLIC_API_BASE_URL}/translate', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -98,7 +98,7 @@ interface InputProps {
 function Input(props: InputProps) {
   return <div className="mb-4">
     <label className="block text-gray-700 text-sm font-bold mb-2">{props.label}</label>
-    <input id={props.id} type="text" readOnly={props.readOnly} pattern="{pattern}" defaultValue={props.seq} 
+    <input id={props.id} type="text" readOnly={props.readOnly} pattern={props.pattern} defaultValue={props.seq} 
       onKeyUp={(e) => props.handler(e)} 
       className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" />
   </div>
