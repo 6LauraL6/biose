@@ -1,15 +1,18 @@
-'use client'
 // Navbar.tsx
-// Navbar.tsx
-import { useState } from "react";
+'use client'// Navbar.tsx
+import React, { useState } from "react";
 import Link from "next/link";
 import Logo from "./Logo";
 
 const Navbar = () => {
-  const [isMenuOpen, setMenuOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
 
   const toggleMenu = () => {
-    setMenuOpen(!isMenuOpen);
+    setIsOpen(!isOpen);
+  };
+
+  const closeMenu = () => {
+    setIsOpen(false);
   };
 
   return (
@@ -18,46 +21,57 @@ const Navbar = () => {
         <div className="container mx-auto px-4 h-full">
           <div className="flex justify-between items-center h-full">
             <div className="md:hidden">
-              {/* Utilitzem l'atribut onClick directament */}
-              <button className="text-white" onClick={toggleMenu}>
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-                  stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+              <button
+                className="text-white focus:outline-none"
+                onClick={toggleMenu}
+              >
+                <svg
+                  className="w-6 h-6"
+                  fill="none"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
                   <path d="M4 6h16M4 12h16m-7 6h7"></path>
                 </svg>
               </button>
-              <ul className={`md:hidden ${isMenuOpen ? '' : 'hidden'} gap-x-6 text-white absolute top-20 left-0 right-0 bg-black p-2 rounded shadow-md`}>
-                <li className="mb-2">
-                  <Link href="/">
-                    <a className="text-white hover:text-red-500 block">Main</a>
-                  </Link>
-                </li>
-                <li className="mb-2">
-                  <Link href="/act1">
-                    <a className="text-white hover:text-red-500 block">Act1</a>
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/act2">
-                    <a className="text-white hover:text-red-500 block">Act2</a>
-                  </Link>
-                </li>
-              </ul>
             </div>
-            <ul className="hidden md:flex gap-x-6 text-white">
+            <ul
+              className={`${
+                isOpen ? "flex" : "hidden"
+              } md:flex gap-x-6 text-white`}
+            >
               <Logo />
               <li>
                 <Link href="/">
-                  <a>Main</a>
+                  <p
+                    className="cursor-pointer"
+                    onClick={closeMenu}
+                  >
+                    Main
+                  </p>
                 </Link>
               </li>
               <li>
                 <Link href="/act1">
-                  <a>Act1</a>
+                  <p
+                    className="cursor-pointer"
+                    onClick={closeMenu}
+                  >
+                    Act1
+                  </p>
                 </Link>
               </li>
               <li>
                 <Link href="/act2">
-                  <a>Act2</a>
+                  <p
+                    className="cursor-pointer"
+                    onClick={closeMenu}
+                  >
+                    Act2
+                  </p>
                 </Link>
               </li>
             </ul>
