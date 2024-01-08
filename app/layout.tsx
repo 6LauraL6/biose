@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
+import Navigation from './components/navigation/navbar'
 import './globals.css'
 import './locals.css'
 
@@ -21,8 +22,9 @@ export default function RootLayout({
         <title>Bio Sequence</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
-      <Navigation />
-      <body className={inter.className}>{children}
+      <body className={inter.className}>
+        <Navigation />
+        {children}
       </body>
     </html>
   )
