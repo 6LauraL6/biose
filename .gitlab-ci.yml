@@ -5,7 +5,7 @@ build:
   #rules:
   #  - if: $CI_PIPELINE_SOURCE == "schedule"
   variables:
-    IMAGE_NAME: registry.gitlab.com/<nom_repositori>/bio-sequence:$CI_COMMIT_REF_NAME
+    IMAGE_NAME: registry.gitlab.com/<nom_repositori>/m14-uf2-bioseq-2:$CI_COMMIT_REF_NAME
 
   before_script:
     - echo "$CI_REGISTRY_PASSWORD" | docker login -u "$CI_REGISTRY_USER" --password-stdin registry.gitlab.com

@@ -19,12 +19,15 @@ export default function RootLayout({
   return (
     <html>
       <head>
-        <title>Bio Sequence</title>
+        <title>Bio Sequence projects.</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
       <body className={inter.className}>
         <Navigation />
         {children}
+        <footer>
+            <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.ca">CC BY-NC 4.0 Deed</a>  —  David de Mingo, Miquel Amorós
+        </footer>
       </body>
     </html>
   )

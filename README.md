@@ -1,7 +1,15 @@
 # BioPython & Next.JS project
 
 ```sh
-docker run --rm -d --name kekule -p 80:80 registry.gitlab.com/xtec/bio-sequence
+docker run --rm -d --name bioseq2 -p 80:80 registry.gitlab.com/mamorosdev/m14-uf2-bioseq-2
+```
+
+FAQ's. How to install docker in Linux:
+
+```sh
+sudo apt update
+sudo apt -y install docker-compose
+sudo usermod -aG docker ${USER}
 ```
 
 ## Develop
@@ -12,7 +20,6 @@ Install dependencies:
 ./init.sh
 source .bashrc
 ```
-
 
 ## Run:
 

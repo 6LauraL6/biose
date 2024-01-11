@@ -11,6 +11,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "kekule": "^1.0.0",
+    "d3": "^7.8.5",
     "bionode-seq": "^0.1.1",
     "next": "14.0.2",
     "react": "^18",
@@ -22,6 +24,7 @@
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
     "concurrently": "^8.2.2",
+    "d3": "^7.8.5",
     "eslint": "^8",
     "eslint-config-next": "14.0.2",
     "postcss": "^8",

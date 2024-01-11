@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Colorización de Texto</title>
+  <style>
+    /* Estilos adicionales según sea necesario */
+    span {
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h3>Demo per aconseguir que els colors es pintin automàticament de diversos colors.</h3>
+  <div id="coloredTextContainer"></div>
+
+  <script>
+    // Función para aplicar colores a cada parte del texto
+    const colorizeText = (text) => {
+      const colors = ['#FF0000', '#00FF00', '#0000FF']; // Colores deseados
+      const textParts = text.split('*');
+      let coloredText = '';
+
+      textParts.forEach((part, index) => {
+        const color = colors[index % colors.length];
+        coloredText += `<span style="color: ${color}">${part.trim()}</span>*`;
+      });
+
+      // Elimina el asterisco final adicional
+      coloredText = coloredText.slice(0, -1);
+
+      return coloredText;
+    };
+
+    // Texto original
+    const originalText = 'MTECG*LTEC*MEATC*MITQ';
+
+    // Obtiene el contenedor donde se mostrará el texto coloreado
+    const coloredTextContainer = document.getElementById('coloredTextContainer');
+
+    // Aplica la función y asigna el resultado al contenedor
+    coloredTextContainer.innerHTML = colorizeText(originalText);
+  </script>
+</body>
+</html>

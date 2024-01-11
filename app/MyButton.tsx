@@ -3,12 +3,13 @@ import React from 'react';
 
 interface MyButtonProps {
   onClick: () => void;
+  buttonText: string;
 }
 
-const MyButton: React.FC<MyButtonProps> = ({ onClick }) => {
+const MyButton: React.FC<MyButtonProps> = ({ onClick, buttonText }) => {
   return (
     <button onClick={onClick}>
-      Traducció a Proteïnes
+      {buttonText}
     </button>
   );
 };

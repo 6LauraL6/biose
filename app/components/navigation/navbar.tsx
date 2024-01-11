@@ -18,7 +18,7 @@ const Navbar = () => {
   return (
     <>
       <div className="w-full h-20 bg-indigo-300 sticky top-0">
-        <div className="container mx-auto px-4 h-full">
+        <div className="container px-4 h-full">
           <div className="flex justify-between items-center h-full">
             <div className="md:hidden">
               <button
@@ -45,32 +45,32 @@ const Navbar = () => {
             >
               <Logo />
               <li>
-                <Link href="/">
-                  <p
-                    className="cursor-pointer"
-                    onClick={closeMenu}
-                  >
-                    Main
-                  </p>
-                </Link>
-              </li>
-              <li>
-                <Link href="/act1">
-                  <p
-                    className="cursor-pointer"
-                    onClick={closeMenu}
-                  >
-                    Act1
-                  </p>
-                </Link>
-              </li>
-              <li>
                 <Link href="/act2">
                   <p
                     className="cursor-pointer"
                     onClick={closeMenu}
                   >
                     Act2
+                  </p>
+                </Link>
+              </li>
+              <li>
+                <Link href="/">
+                  <p
+                    className="cursor-pointer"
+                    onClick={closeMenu}
+                  >
+                    Act3
+                  </p>
+                </Link>
+              </li>
+              <li>
+                <Link href="/act4">
+                  <p
+                    className="cursor-pointer"
+                    onClick={closeMenu}
+                  >
+                    Act4
                   </p>
                 </Link>
               </li>
