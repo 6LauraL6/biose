@@ -11,9 +11,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "kekule": "^1.0.0",
-    "d3": "^7.8.5",
     "bionode-seq": "^0.1.1",
+    "kekule": "^1.0.0",
     "next": "14.0.2",
     "react": "^18",
     "react-dom": "^18"

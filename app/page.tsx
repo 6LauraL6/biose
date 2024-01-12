@@ -2,7 +2,6 @@
 'use client';
 import seq from "bionode-seq";
 import { useEffect, useState } from "react";
-import MyButton from './MyButton';
 import * as d3 from 'd3';
 
 export default function MainPage() {
@@ -156,8 +155,8 @@ export default function MainPage() {
           <Input id="dna-template" pattern="/[^ACGT]/g" readOnly label="DNA Template strand" seq={dna_template} handler={handleDNA} />
           <Input id="rna" label="RNAm" pattern="/[^ACGU]/g" readOnly={true} seq={rna} handler={handleDNA} />
           <Input id="codonTable" label="codonTable" pattern="/^[0-9]+$" seq={codonTable} readOnly={false} handler={handleDNA} />
-          <MyButton onClick={handleTranslateRna} buttonText="Tradueix a proteïnes" />
-          <MyButton onClick={handleBarPlots} buttonText="Gràfics de bases" />
+          <Button onClick={handleTranslateRna} buttonText="Tradueix a proteïnes" />
+          <Button onClick={handleBarPlots} buttonText="Gràfics de bases" />
         </div>
         <div className="space-x-2">
           <h2 className="text-gray-700 text-xl font-bold mb-2">Resultats.</h2>
@@ -173,6 +172,8 @@ export default function MainPage() {
   );
 }
 
+// Component camp entrada.
+
 interface InputProps {
   id: string
   label: string
@@ -181,7 +182,6 @@ interface InputProps {
   readOnly: boolean
   pattern: string
 }
-
 function Input(props: InputProps) {
   return <div className="mb-4">
     <label className="block text-gray-700 text-sm font-bold mb-2">{props.label}</label>
@@ -190,3 +190,20 @@ function Input(props: InputProps) {
       className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" />
   </div>
 }
+
+// Component botó.
+// MyButton.tsx
+import React from 'react';
+
+interface MyButtonProps {
+  onClick: () => void;
+  buttonText: string;
+}
+
+const Button: React.FC<MyButtonProps> = ({ onClick, buttonText }) => {
+  return (
+    <button onClick={onClick}>
+      {buttonText}
+    </button>
+  );
+};
