@@ -38,8 +38,6 @@ export default function Act2() {
     setDna(value);
   }
 
-
-
   return (
     <main className="p-6">
       <h1 className="text-indigo-700 text-xl font-bold">BioActivitat 2 - Àcids Nucleics</h1>

@@ -89,24 +89,28 @@ def get_genbank(accession):
 
 @app.route('/api/genbank-list', methods=['GET'])
 def get_genbank_list():
-    genbank_files = biotools.get_genbank_files_list()
-    genbank_info_list = []
 
-    for accession in genbank_files:
-        genbank_info = biotools.get_genbank_info(accession.split('.')[0])
-        genbank_info_list.append({
-            'title': genbank_info['title'],
-            'accession': genbank_info['accession'],
-            'ncbi_link': genbank_info['ncbi_link'],
-            'latest_reference': genbank_info['latest_reference'],
-            'num_features': genbank_info['num_features'],
-            'seq_first30': genbank_info['seq_first30'],
-            'cds_info': genbank_info['cds_info'],
-            'repeated_sequence': genbank_info['repeated_sequence']
-        })
+    try:
+        genbank_files = biotools.get_genbank_files_list()
+        genbank_info_list = []
+        for accession in genbank_files:
+            genbank_info = biotools.get_genbank_info(accession.split('.')[0])
+            genbank_info_list.append({
+                'title': genbank_info['title'],
+                'accession': genbank_info['accession'],
+                'ncbi_link': genbank_info['ncbi_link'],
+                'latest_reference': genbank_info['latest_reference'],
+                'num_features': genbank_info['num_features'],
+                'seq_first30': genbank_info['seq_first30'],
+                'cds_info': genbank_info['cds_list'],
+                'repeated_sequence': genbank_info['repeated_sequence'],
+                'isMultigenbank': genbank_info.get('is_multigenbank', False)
+            })
+        return jsonify(genbank_info_list)
 
-    return jsonify(genbank_info_list)
-
+    except Exception as e:
+        print("Error:", e)
+        return jsonify({'error': 'Internal Server Error'}), 500
 
 ## Web Services necessaris per arrencar la aplicació.
 
