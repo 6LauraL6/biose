@@ -91,9 +91,8 @@ def get_genbank_files_list():
 
 
 def get_genbank_info(accession):
-    genbank_file = f'{GENBANK_DIR}/{accession}.genbank'
+    genbank_file = f'{GENBANK_DIR}/{accession}'
     print(genbank_file)
-
     try:
         records = SeqIO.parse(genbank_file, 'genbank')
         info = []
@@ -106,7 +105,8 @@ def get_genbank_info(accession):
                 'latest_reference': record.annotations.get('references', [])[0].title,
                 'num_features': len(record.features),
                 'cds_info': [{'type': feature.type, 'location': str(feature.location)} for feature in record.features if feature.type == 'CDS'],
-                'seq_first30': str(record.seq)[:30]
+                'sequence': str(record.seq),
+                'gc': round(GC(record.seq))
             }
             info.append(record_info)
 

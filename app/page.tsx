@@ -152,7 +152,6 @@ export default function MainPage() {
       <div className="grid grid-cols-2 gap-2 bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
         <div className="space-x-2">
           <Input id="dna-coding" pattern="/[^ACGT]/g" readOnly={false} label="DNA Coding Strand" seq={dna} handler={handleDNA} />
-          <Input id="dna-template" pattern="/[^ACGT]/g" readOnly label="DNA Template strand" seq={dna_template} handler={handleDNA} />
           <Input id="rna" label="RNAm" pattern="/[^ACGU]/g" readOnly={true} seq={rna} handler={handleDNA} />
           <Input id="codonTable" label="codonTable" pattern="/^[0-9]+$" seq={codonTable} readOnly={false} handler={handleDNA} />
           <Button onClick={handleTranslateRna} buttonText="Tradueix a proteïnes" />
