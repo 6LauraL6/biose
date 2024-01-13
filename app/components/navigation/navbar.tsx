@@ -45,31 +45,22 @@ const Navbar = () => {
             >
               <Logo />
               <li>
-                <Link href="/act2">
-                  <p
-                    className="cursor-pointer"
-                    onClick={closeMenu}
-                  >
+                <Link href="/act2" className="text-xl hover:text-yellow-500 transition hover:underline">
+                  <p className="cursor-pointer" onClick={closeMenu}>
                     Act2
                   </p>
                 </Link>
               </li>
               <li>
-                <Link href="/">
-                  <p
-                    className="cursor-pointer"
-                    onClick={closeMenu}
-                  >
+                <Link href="/" className="text-xl hover:text-yellow-500 transition hover:underline">
+                  <p className="cursor-pointer" onClick={closeMenu} >
                     Act3
                   </p>
                 </Link>
               </li>
               <li>
-                <Link href="/act4">
-                  <p
-                    className="cursor-pointer"
-                    onClick={closeMenu}
-                  >
+                <Link href="/act4" className="text-xl hover:text-yellow-500 transition hover:underline">
+                  <p className="cursor-pointer" onClick={closeMenu}>
                     Act4
                   </p>
                 </Link>

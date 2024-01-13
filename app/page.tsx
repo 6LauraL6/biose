@@ -2,7 +2,7 @@
 'use client';
 import seq from "bionode-seq";
 import { useEffect, useState } from "react";
-import * as d3 from 'd3';
+import { select, scaleLinear, scaleBand, scaleOrdinal, schemeCategory10, max, axisBottom, axisLeft } from 'd3';
 
 export default function MainPage() {
 
@@ -104,26 +104,26 @@ export default function MainPage() {
   useEffect(() => {
     if (chartData.length > 0) {
       // D3.js code per crear el gràfic de barras
-      const svg = d3.select('#chart');
+      const svg = select('#chart');
       svg.selectAll('*').remove(); // Esborrar qualsevol gràfic anterior
 
       const width = 400;
       const height = 300;
       const margin = { top: 20, right: 30, bottom: 40, left: 40 };
 
-      const xScale = d3.scaleBand()
+      const xScale = scaleBand()
         .domain(Object.keys(baseCounts))
         .range([margin.left, width - margin.right])
         .padding(0.2);
 
-      const yScale = d3.scaleLinear()
-        .domain([0, d3.max(chartData) || 1])
+      const yScale = scaleLinear()
+        .domain([0, max(chartData) || 1])
         .range([height - margin.bottom, margin.top]);
 
       const svgChart = svg.append('g')
         .attr('transform', `translate(${margin.left}, 0)`);
 
-      const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+      const colorScale = scaleOrdinal(schemeCategory10);
 
       svgChart.selectAll('rect')
         .data(chartData)
@@ -137,11 +137,11 @@ export default function MainPage() {
 
       svgChart.append('g')
         .attr('transform', `translate(0, ${height - margin.bottom})`)
-        .call(d3.axisBottom(xScale));
+        .call(axisBottom(xScale));
 
       svgChart.append('g')
         .attr('transform', `translate(${margin.left}, 0)`)
-        .call(d3.axisLeft(yScale));
+        .call(axisLeft(yScale));
     }
   }, [chartData, baseCounts]);
 

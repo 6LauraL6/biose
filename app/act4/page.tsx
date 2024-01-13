@@ -47,7 +47,7 @@ export default function Board() {
   return (
     <main className="p-6">
   <h1 className="text-indigo-700 text-xl font-bold">BioActivitat 4 - Fitxers de seqüències.</h1>
-  <p>⚠ Per ara només tenim allotjats fitxers Unigenbank de com a molt 1 MB d&apos; espai. ⚠</p>
+  <p>⚠ Per ara només tenim allotjats fitxers Unigenbank de com a molt 5 MB d&apos; espai. ⚠</p>
   <div className="bg-green shadow-md rounded px-8 pt-6 pb-8 mb-4 grid grid-cols-1 lg:grid-cols-2">
     {loading && (
       <div className="flex items-center justify-center mt-4">
