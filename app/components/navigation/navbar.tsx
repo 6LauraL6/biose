@@ -45,23 +45,37 @@ const Navbar = () => {
             >
               <Logo />
               <li>
+                <Link href="/act1" className="text-xl hover:text-yellow-500 transition hover:underline">
+                  <p className="cursor-pointer" onClick={closeMenu} >
+                    Act1-Kekule
+                  </p>
+                </Link>
+              </li>
+              <li>
                 <Link href="/act2" className="text-xl hover:text-yellow-500 transition hover:underline">
                   <p className="cursor-pointer" onClick={closeMenu}>
-                    Act2
+                    Act2 - ADN
                   </p>
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-xl hover:text-yellow-500 transition hover:underline">
                   <p className="cursor-pointer" onClick={closeMenu} >
-                    Act3
+                    Act3 - Prot
                   </p>
                 </Link>
               </li>
               <li>
                 <Link href="/act4" className="text-xl hover:text-yellow-500 transition hover:underline">
                   <p className="cursor-pointer" onClick={closeMenu}>
-                    Act4
+                    Act4 - GB
+                  </p>
+                </Link>
+              </li>
+               <li>
+                <Link href="/act5" className="text-xl hover:text-yellow-500 transition hover:underline">
+                  <p className="cursor-pointer" onClick={closeMenu}>
+                    Act5 - Entrez
                   </p>
                 </Link>
               </li>
