@@ -44,18 +44,15 @@ export default function Board() {
 
   return (
     <div className="container mt-5">
-      <h1 className="text-indigo-700 text-xl font-bold">BioActivitat 1 - Molecule Viewer</h1>
+      <h1 className="text-indigo-700 text-xl font-bold p-2">BioActivitat 1 - Molecule Viewer</h1>
       <div className="grid grid-cols-2 gap-2">
 
         <div id="01">
-          <input id="name" type="text" placeholder="adenine" onKeyUp={draw} />
+          <label className="inline-block form-check-label ms-3" htmlFor="name">Molecule name</label>
+          <input id="name" type="text" placeholder="adenine" className="border radius border-indigo-500" onKeyUp={draw} />
           <div>
-            <input className="form-check-input" type="checkbox" name="checkBoxCondensed" id="checkBoxCondensed" onClick={draw} />
-            <label className="form-check-label ms-3" htmlFor="checkBoxCondensed">Condensed</label>
-          </div>
-          <div>
-            <label>Zoom</label>
-            <input type="number" min="1" max="5" value="2" />
+            <label className="inline-block form-check-label ms-3" htmlFor="checkBoxCondensed">Condensed</label>
+            <input className="inline-block form-check-input" type="checkbox" name="checkBoxCondensed" id="checkBoxCondensed" onClick={draw} />
           </div>
           <div id="drawStage border border-3 rounded">
             <div id="draw-panel"></div>

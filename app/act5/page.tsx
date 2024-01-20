@@ -44,7 +44,7 @@ export default function Home() {
       panel = <>
         <p className="text-center">{dbs.length} databases found.</p>
         <div className="row mt-2">
-          <div className="row mt-2">
+          <div className="row mt-2 grid grid-cols-4 gap-4 md:grid-cols-3 md:gap-3 sm:grid-cols-2 sm:gap-2">
             {dbs.map(item => (
               <div key={item} className="col-4 col-sm-2">
                 <DbLink name={item} handle={dbInfo}></DbLink>
@@ -73,7 +73,7 @@ interface DbLinkProps {
   handle: any
 }
 function DbLink({ name, handle }: DbLinkProps) {
-  return <div className="p-2 m-2 border border-primary border-2 rounded text-center link-primary fw-bold" key={name} onClick={() => handle(name)} >{name}</div>
+  return <div className="p-2 m-2 rounded order-solid border-2 border-indigo-600 text-center link-primary fw-bold" key={name} onClick={() => handle(name)} >{name}</div>
 }
 
 
@@ -84,13 +84,13 @@ interface DbProps {
 function Db({ db, handle }: DbProps) {
 
   return <>
-    <div className="row mt-2">
-      <div className="col-2"><button type="button" onClick={() => handle()} className="btn btn-outline-primary">
+    <div className="row mt-2 grid grid-cols-2 gap-2">
+      <div className="col-2"><button type="button" id="btn1" onClick={() => handle()} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
         <Database/> Databases</button></div>
-      <div className="col"><h2 className="fw-bold">{db.dbname}</h2></div>
+      <div className="col"><h2 className="fw-bold text-xl text-indigo-700">{db.dbname}</h2></div>
     </div>
-    <div className="border border-2 rounded-5 mt-2 border-success">
-      <table className="table table-bordered ms-5 me-5 mt-3 mb-3">
+    <div className="border-solid border-2 border-indigo-600 mt-2">
+      <table className="table-auto">
         <tr><th className="font-monospace">menuname</th><td>{db.menuname}</td></tr>
         <tr><th className="font-monospace">description</th><td>{db.description}</td></tr>
         <tr><th className="font-monospace">count</th><td>{db.count}</td></tr>
@@ -99,10 +99,10 @@ function Db({ db, handle }: DbProps) {
       </table>
     </div>
 
-    <h2 className="text-center mt-5">Linked List</h2>
-    <table className="table table-bordered table-hover">
+    <h2 className="text-center mt-5 fw-bold text-xl text-black-700">Linked List</h2>
+    <table className="table-auto border border-red-500 rounded">
       <thead>
-        <tr>
+        <tr className="border border-red-500 rounded">
           <th>dbto</th>
           <th>name</th>
           <th>menu</th>
@@ -117,11 +117,11 @@ function Db({ db, handle }: DbProps) {
     </table>
 
 
-    <h2 className="text-center mt-5">Field List</h2>
+    <h2 className="text-center mt-5 fw-bold text-xl text-black-700">Field List</h2>
 
-    <table className="table table-bordered table-hover">
+    <table className="table-auto border border-red-500">
       <thead>
-        <tr>
+        <tr className="border border-red-500 rounded">
           <th>name</th>
           <th>fullname</th>
           <th>description</th>

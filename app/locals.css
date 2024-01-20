@@ -55,3 +55,12 @@ a#menu:hover {
     color: #0056b3; 
     text-decoration: none;
 }
+
+#btn svg {
+    display: inline !important;
+}
+
+.table-auto tr td {
+    border-color: #45a049;
+    border-radius: 0.2rem
+}
