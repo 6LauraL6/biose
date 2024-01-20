@@ -27,8 +27,8 @@ export default function RootLayout({
         <Navigation />
         {children}
         <footer className="container">
-          <p className="text-center">
-            <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.ca">CC BY-NC 4.0 Deed</a>  —  David de Mingo, Miquel Amorós
+          <p className="text-center sticky">
+            <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.ca">CC BY-NC 4.0 Deed</a> 2024 —  David de Mingo, Miquel Amorós
           </p>
         </footer>
       </body>

@@ -24,7 +24,7 @@ Install dependencies:
 
 ```sh
 ./init.sh
-source .bashrc
+source ~/.bashrc
 ```
 
 ## Run:
