@@ -46,7 +46,7 @@ export default function Board() {
 
   return (
   <main className="p-6">
-  <h1 className="text-indigo-700 text-xl font-bold">BioActivitat 4 - Fitxers de seqüències.</h1>
+  <h1 className="text-indigo-700 text-xl font-bold">BioActivitat 4 - Fitxer Genbank.</h1>
   <p>⚠ Per ara només tenim allotjats fitxers Unigenbank de com a molt 5 MB d&apos; espai. ⚠</p>
   <div className="bg-green shadow-md rounded px-8 pt-6 pb-8 mb-4 grid grid-cols-1 lg:grid-cols-2">
     {loading && (
@@ -56,30 +56,12 @@ export default function Board() {
       </div>
     )}
     {error && <p>{error}</p>}
-    {genbankInfo.map((info, index) => (
-      <div key={index} className="p-2">
-        <h2 className="text-l font-bold">{info.title}</h2>
-        <p>Accession ID: {info.accession}</p>
-        <p className="text-indigo-700 no-underline hover:underline">🔗 Enllaç NCBI: 
-          <a href={info.ncbi_link} target="_blank" rel="noopener noreferrer">{info.accession}</a>
-        </p>
-        <p>🖧 Referència Més Recent: {info.latest_reference}</p>
-        <p>🧫 Número de Features: {info.num_features}</p>
-        <p>🧬 Seqüència (30 primeres): {info.sequence.slice(0, 30)}</p>
-        <p>🧬 %GC: {info.gc}</p>
-        {/* Informació CDS */}
-        {info.cds_info && info.cds_info.slice(0, 5).length > 0 && (
-          <p>🔬 Informació primers CDS:
-            <ul>
-              {info.cds_info.slice(0, 5).map((cds, cdsIndex) => (
-                <li key={cdsIndex}>{`Type: ${cds.type}, Location: ${cds.location}`}</li>
-              ))}
-            </ul>
-          </p>
-        )}
-        <hr />
+    
+      <div className="p-2">
+        <h2 className="text-l font-bold">Dades del Genbank</h2>
+        
       </div>
-    ))}
+    
   </div>
 </main>
   );

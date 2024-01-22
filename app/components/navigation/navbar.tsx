@@ -47,35 +47,21 @@ const Navbar = () => {
               <li>
                 <Link href="/act1" className="text-xl hover:text-yellow-500 transition hover:underline">
                   <p className="cursor-pointer" onClick={closeMenu} >
-                    Act1-Kekule
-                  </p>
-                </Link>
-              </li>
-              <li>
-                <Link href="/act2" className="text-xl hover:text-yellow-500 transition hover:underline">
-                  <p className="cursor-pointer" onClick={closeMenu}>
-                    Act2 - ADN
+                    Pt1-Ses1-Kekule
                   </p>
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-xl hover:text-yellow-500 transition hover:underline">
-                  <p className="cursor-pointer" onClick={closeMenu} >
-                    Act3 - Prot
+                  <p className="cursor-pointer" onClick={closeMenu}>
+                  Pt1-Ses2-DNA-RNA-Prot
                   </p>
                 </Link>
               </li>
               <li>
                 <Link href="/act4" className="text-xl hover:text-yellow-500 transition hover:underline">
-                  <p className="cursor-pointer" onClick={closeMenu}>
-                    Act4 - GB
-                  </p>
-                </Link>
-              </li>
-               <li>
-                <Link href="/act5" className="text-xl hover:text-yellow-500 transition hover:underline">
-                  <p className="cursor-pointer" onClick={closeMenu}>
-                    Act5 - Entrez
+                  <p className="cursor-pointer" onClick={closeMenu} >
+                    Pt1-Ses3-Genbank
                   </p>
                 </Link>
               </li>
