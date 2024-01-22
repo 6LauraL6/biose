@@ -1,0 +1,492 @@
+LOCUS       NM_030989               1792 bp    mRNA    linear   ROD 27-NOV-2023
+DEFINITION  Rattus norvegicus tumor protein p53 (Tp53), mRNA.
+ACCESSION   NM_030989
+VERSION     NM_030989.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (bases 1 to 1792)
+  AUTHORS   Zeng Y, Ng JPL, Wang L, Xu X, Law BYK, Chen G, Lo HH, Yang L, Yang
+            J, Zhang L, Qu L, Yun X, Zhong J, Chen R, Zhang D, Wang Y, Luo W,
+            Qiu C, Huang B, Liu W, Liu L and Wong VKW.
+  TITLE     Mutant p53R211* ameliorates inflammatory arthritis in AIA rats via
+            inhibition of TBK1-IRF3 innate immune response
+  JOURNAL   Inflamm Res 72 (12), 2199-2219 (2023)
+   PUBMED   37935918
+  REMARK    GeneRIF: Mutant p53[R211*] ameliorates inflammatory arthritis in
+            AIA rats via inhibition of TBK1-IRF3 innate immune response.
+REFERENCE   2  (bases 1 to 1792)
+  AUTHORS   Mukherjee R, Tetri LH, Li SJ, Fajardo G, Ostberg NP, Tsegay KB,
+            Gera K, Cornell TT, Bernstein D, Mochly-Rosen D and Haileselassie
+            B.
+  TITLE     Drp1/p53 interaction mediates p53 mitochondrial localization and
+            dysfunction in septic cardiomyopathy
+  JOURNAL   J Mol Cell Cardiol 177, 28-37 (2023)
+   PUBMED   36841153
+  REMARK    GeneRIF: Drp1/p53 interaction mediates p53 mitochondrial
+            localization and dysfunction in septic cardiomyopathy.
+REFERENCE   3  (bases 1 to 1792)
+  AUTHORS   Liu C, Tian Q, Wang J, He P, Han S, Guo Y, Yang C, Wang G, Wei H
+            and Li M.
+  TITLE     Blocking P2RX7 Attenuates Ferroptosis in Endothelium and Reduces
+            HG-induced Hemorrhagic Transformation After MCAO by Inhibiting
+            ERK1/2 and P53 Signaling Pathways
+  JOURNAL   Mol Neurobiol 60 (2), 460-479 (2023)
+   PUBMED   36282438
+  REMARK    GeneRIF: Blocking P2RX7 Attenuates Ferroptosis in Endothelium and
+            Reduces HG-induced Hemorrhagic Transformation After MCAO by
+            Inhibiting ERK1/2 and P53 Signaling Pathways.
+            Erratum:[Mol Neurobiol. 2022 Nov 23;:. PMID: 36422815]
+REFERENCE   4  (bases 1 to 1792)
+  AUTHORS   Hong JH, Ding YY, Li JM, Pan XC, Liu Y and Zhang HG.
+  TITLE     Self-limiting bidirectional positive feedback between P53 and P21
+            is involved in cardiac hypertrophy
+  JOURNAL   Eur J Pharmacol 932, 175239 (2022)
+   PUBMED   36044972
+  REMARK    GeneRIF: Self-limiting bidirectional positive feedback between P53
+            and P21 is involved in cardiac hypertrophy.
+REFERENCE   5  (bases 1 to 1792)
+  AUTHORS   Wahyuni T, Tanaka S, Igarashi R, Miyake Y, Yamamoto A, Mori S,
+            Kametani Y, Tomimatsu M, Suzuki S, Yokota K, Okada Y, Maeda M,
+            Obana M and Fujio Y.
+  TITLE     CXCL10 is a novel anti-angiogenic factor downstream of p53 in
+            cardiomyocytes
+  JOURNAL   Physiol Rep 10 (9), e15304 (2022)
+   PUBMED   35542987
+  REMARK    GeneRIF: CXCL10 is a novel anti-angiogenic factor downstream of p53
+            in cardiomyocytes.
+REFERENCE   6  (bases 1 to 1792)
+  AUTHORS   Frebourg T, Kassel J, Lam KT, Gryka MA, Barbier N, Andersen TI,
+            Borresen AL and Friend SH.
+  TITLE     Germ-line mutations of the p53 tumor suppressor gene in patients
+            with high risk for cancer inactivate the p53 protein
+  JOURNAL   Proc Natl Acad Sci U S A 89 (14), 6413-6417 (1992)
+   PUBMED   1631137
+REFERENCE   7  (bases 1 to 1792)
+  AUTHORS   Kohler MF, Berchuck A, Davidoff AM, Humphrey PA, Dodge RK, Iglehart
+            JD, Soper JT, Clarke-Pearson DL, Bast RC Jr and Marks JR.
+  TITLE     Overexpression and mutation of p53 in endometrial carcinoma
+  JOURNAL   Cancer Res 52 (6), 1622-1627 (1992)
+   PUBMED   1540970
+REFERENCE   8  (bases 1 to 1792)
+  AUTHORS   Eccles DM, Brett L, Lessells A, Gruber L, Lane D, Steel CM and
+            Leonard RC.
+  TITLE     Overexpression of the p53 protein and allele loss at 17p13 in
+            ovarian carcinoma
+  JOURNAL   Br J Cancer 65 (1), 40-44 (1992)
+   PUBMED   1310251
+REFERENCE   9  (bases 1 to 1792)
+  AUTHORS   Malkin D, Li FP, Strong LC, Fraumeni JF Jr, Nelson CE, Kim DH,
+            Kassel J, Gryka MA, Bischoff FZ, Tainsky MA et al.
+  TITLE     Germ line p53 mutations in a familial syndrome of breast cancer,
+            sarcomas, and other neoplasms
+  JOURNAL   Science 250 (4985), 1233-1238 (1990)
+   PUBMED   1978757
+  REMARK    Erratum:[Science. 1993 Feb 12;259(5097):878. PMID: 8438145]
+REFERENCE   10 (bases 1 to 1792)
+  AUTHORS   Raycroft L, Wu HY and Lozano G.
+  TITLE     Transcriptional activation by wild-type but not transforming
+            mutants of the p53 anti-oncogene
+  JOURNAL   Science 249 (4972), 1049-1051 (1990)
+   PUBMED   2144364
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from CV126174.1 and BC098663.1.
+            
+            On May 24, 2008 this sequence version replaced NM_030989.2.
+            
+            Summary: This gene encodes tumor protein p53, which responds to
+            diverse cellular stresses to regulate target genes that induce cell
+            cycle arrest, apoptosis, senescence, DNA repair, or changes in
+            metabolism. p53 protein is expressed at low level in normal cells
+            and at a high level in a variety of transformed cell lines, where
+            it is believed to contribute to transformation and malignancy. p53
+            is a DNA-binding protein containing transcription activation,
+            DNA-binding, and oligomerization domains. It is postulated to bind
+            to a p53-binding site and activate expression of downstream genes
+            that inhibit growth and/or invasion, and thus function as a tumor
+            suppressor. Alternatively spliced transcript variants have been
+            found for this gene, but the biological validity of the variants
+            has not been determined. p53 pseudogenes have been found on
+            chromosomes 9 and 18. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC098663.1, BC081788.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-42                CV126174.1         1-42
+            43-1792             BC098663.1         1-1750
+FEATURES             Location/Qualifiers
+     source          1..1792
+                     /organism="Rattus norvegicus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:10116"
+                     /chromosome="10"
+                     /map="10q24"
+     gene            1..1792
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="tumor protein p53"
+                     /db_xref="GeneID:24842"
+                     /db_xref="RGD:3889"
+     exon            1..122
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    54..56
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="upstream in-frame stop codon"
+     exon            123..205
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             132..1307
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="tumor suppressor p53; transformation related
+                     protein 53; tumor protein p53 (Li-Fraumeni syndrome)"
+                     /codon_start=1
+                     /product="cellular tumor antigen p53"
+                     /protein_id="NP_112251.2"
+                     /db_xref="GeneID:24842"
+                     /db_xref="RGD:3889"
+                     /translation="MEDSQSDMSIELPLSQETFSCLWKLLPPDDILPTTATGSPNSME
+                     DLFLPQDVAELLEGPEEALQVSAPAAQEPGTEAPAPVAPASATPWPLSSSVPSQKTYQ
+                     GNYGFHLGFLQSGTAKSVMCTYSISLNKLFCQLAKTCPVQLWVTSTPPPGTRVRAMAI
+                     YKKSQHMTEVVRRCPHHERCSDGDGLAPPQHLIRVEGNPYAEYLDDRQTFRHSVVVPY
+                     EPPEVGSDYTTIHYKYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRDSFEVRVCACP
+                     GRDRRTEEENFRKKEEHCPELPPGSAKRALPTSTSSSPQQKKKPLDGEYFTLKIRGRE
+                     RFEMFRELNEALELKDARAAEESGDSRAHSSYPKTKKGQSTSRHKKPMIKKVGPDSD"
+     misc_feature    132..1085
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Interaction with CCAR2.
+                     /evidence=ECO:0000250|UniProtKB:P04637"
+     misc_feature    132..272
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Transcription activation (acidic)"
+     misc_feature    156..158
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Phosphoserine, by HIPK4.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); phosphorylation site"
+     misc_feature    174..176
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Phosphoserine, by CDK5, PRPK, AMPK, NUAK1 and ATM.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); phosphorylation site"
+     misc_feature    183..185
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Phosphothreonine, by CK1, VRK1 and VRK2.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); phosphorylation site"
+     misc_feature    189..191
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Phosphoserine, by CHEK2, CK1 and PLK3.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); phosphorylation site"
+     misc_feature    246..248
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Phosphoserine, by MAPKAPK5.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); phosphorylation site"
+     misc_feature    321..455
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Interaction with WWOX. /evidence=ECO:0000250"
+     misc_feature    324..401
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    423..1235
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Interaction with HIPK1. /evidence=ECO:0000250"
+     misc_feature    423..1025
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Required for interaction with ZNF385A.
+                     /evidence=ECO:0000250"
+     misc_feature    462..833
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Required for interaction with FBXO42.
+                     /evidence=ECO:0000250"
+     misc_feature    471..1001
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Interaction with AXIN1. /evidence=ECO:0000250"
+     misc_feature    483..485
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Interaction with DNA.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); other site"
+     misc_feature    483..485
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="N6-acetyllysine, by KAT6A.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); acetylation site"
+     misc_feature    672..674
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Phosphoserine, by AURKB.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); phosphorylation site"
+     misc_feature    891..1007
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Interaction with E4F1. /evidence=ECO:0000250"
+     misc_feature    930..932
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Phosphoserine, by AURKB.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); phosphorylation site"
+     misc_feature    942..965
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Interaction with DNA. /evidence=ECO:0000250"
+     misc_feature    972..1103
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    975..977
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Phosphothreonine, by AURKB.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); phosphorylation site"
+     misc_feature    1038..1088
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Bipartite nuclear localization signal.
+                     /evidence=ECO:0000250"
+     misc_feature    1038..1040
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); acetylation site"
+     misc_feature    1068..1070
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Phosphoserine, by AURKA, CDK1 and CDK2.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); phosphorylation site"
+     misc_feature    1080..1205
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Interaction with HIPK2. /evidence=ECO:0000250"
+     misc_feature    1086..1088
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P02340; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); acetylation site"
+     misc_feature    1098..1193
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Oligomerization"
+     misc_feature    1122..1124
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); methylation site"
+     misc_feature    1128..1130
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Symmetric dimethylarginine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); methylation site"
+     misc_feature    1134..1136
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Symmetric dimethylarginine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); methylation site"
+     misc_feature    1140..1175
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Nuclear export signal. /evidence=ECO:0000250"
+     misc_feature    1179..1304
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1200..1214
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Interaction with USP7. /evidence=ECO:0000250"
+     misc_feature    1227..1286
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: Basic (repression of DNA-binding)"
+     misc_feature    1233..1241
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     Region: [KR]-[STA]-K motif"
+     misc_feature    1233..1235
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="N6,N6-dimethyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; N6-methyllysine,
+                     by SMYD2, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); methylation site"
+     misc_feature    1239..1241
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="N6-methyllysine, by SETD7.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); methylation site"
+     misc_feature    1242..1244
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="N6,N6-dimethyllysine, by EHMT1 and EHMT2,
+                     alternate. /evidence=ECO:0000250|UniProtKB:P04637;
+                     propagated from UniProtKB/Swiss-Prot (P10361.1);
+                     methylation site"
+     misc_feature    1242..1244
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); acetylation site"
+     misc_feature    1266..1268
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); acetylation site"
+     misc_feature    1269..1271
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="N6,N6-dimethyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; N6-methyllysine,
+                     by KMT5A, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); methylation site"
+     misc_feature    1269..1271
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="N6-acetyllysine, by KAT6A, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); acetylation site"
+     misc_feature    1299..1301
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /note="Phosphoserine, by CK2, CDK2 and NUAK1.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P10361.1); phosphorylation site"
+     exon            206..227
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            228..500
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            501..684
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            685..907
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            908..1044
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1045..1118
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1119..1225
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1226..1756
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1733..1738
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+     polyA_site      1756
+                     /gene="Tp53"
+                     /gene_synonym="p53; Trp53"
+ORIGIN      
+        1 tctgaagctc cagttcattg ggacttatcc ttgctatagg tagcgactac agttaggggg
+       61 tacctggcat ccgggcccgc accctacttc ccagcagggt gtcacgctcc cctgaagact
+      121 ggataactgt catggaggat tcacagtcgg atatgagcat cgagctccct ctgagtcagg
+      181 agacattttc atgcttatgg aaacttcttc ctccagatga tattctgccc accacagcga
+      241 cagggtcacc taattccatg gaagatctgt tcctgcccca ggatgttgca gagttgttag
+      301 aaggcccaga ggaagccctc caagtgtcag ctcctgcagc acaggaacct ggaactgagg
+      361 cccctgcacc cgtggcccct gcttcagcta caccgtggcc tctgtcatct tccgtccctt
+      421 ctcaaaaaac ttaccaaggc aactatggct tccacctggg cttcctgcag tcagggacag
+      481 ccaagtctgt tatgtgcacg tactcaattt ccctcaataa gctgttctgc cagctggcga
+      541 agacatgccc tgtgcagttg tgggtcacct ccacacctcc acctggtacc cgtgtccgtg
+      601 ccatggccat ctacaagaag tcacaacaca tgactgaggt cgtgagacgc tgcccccacc
+      661 atgagcgttg ctctgatggt gacggcctgg ctcctcccca acatcttatc cgggtggaag
+      721 gaaatccgta tgctgagtat ctggacgaca ggcagacttt tcggcacagc gtggtggtac
+      781 cgtatgagcc acctgaggtc ggctccgact ataccactat ccactacaag tacatgtgca
+      841 acagctcctg catggggggc atgaaccgcc ggcccatcct taccatcatc acgctggaag
+      901 actccagtgg gaatcttctg ggacgggaca gctttgaggt tcgtgtttgt gcctgtcctg
+      961 ggagagaccg tcggacagag gaagaaaatt tccgcaaaaa agaagagcat tgcccggagc
+     1021 tgcccccagg gagtgcaaag agagcactgc ccaccagcac aagctcctct ccccagcaaa
+     1081 agaaaaaacc actcgatgga gaatatttca cccttaagat ccgtgggcgt gagcgcttcg
+     1141 agatgttccg agagctgaat gaggccttgg aattaaagga tgcccgtgct gccgaggagt
+     1201 caggagacag cagggctcac tccagctacc cgaagaccaa gaagggccag tctacgtccc
+     1261 gccataaaaa accaatgatc aagaaagtgg ggcctgactc agactgacag cctctgcatc
+     1321 ctgtccccat caccagcctc cccgtcccct cctttcttgc cattttatga ctttagggct
+     1381 tgttatgaga gctgacaaga caatgctagt cccttcactg ccttttttta ccttgtagat
+     1441 agtactcggc cccctctatg caaactggtt cctggcccag attggggaat gggttggtag
+     1501 ttgctgggtc tctgctggtc cagcgaaatc ctatccggtc agttgttgga cctggcacct
+     1561 acagtgaaat ttcaccccac cccaccgcct gtaagattct atcttgggcc ctcatacgat
+     1621 ctgtatcctc caggacccat ttcctccact ctgcaaagcc tgtctgcatt tatccatccc
+     1681 ccacccctct ccctcttttt atctcttttt atatatcaat ttcttatttt acaataaact
+     1741 tttgttacca cttgtaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aa
+//
+

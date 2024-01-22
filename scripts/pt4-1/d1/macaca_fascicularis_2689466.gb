@@ -1,0 +1,59 @@
+LOCUS       U48957                  1182 bp    DNA     linear   PRI 19-DEC-1997
+DEFINITION  Macaca fascicularis p53 gene, complete cds.
+ACCESSION   U48957
+VERSION     U48957.1
+KEYWORDS    .
+SOURCE      Macaca fascicularis (crab-eating macaque)
+  ORGANISM  Macaca fascicularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 1182)
+  AUTHORS   Khan,M.A., Hansen,C., Welsh,J.A. and Bennett,W.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-FEB-1996) National Institutes of Health, National
+            Cancer Institute, 9000 Rockville Pike, Blg:37 Rm:2C09, Bethesda, MD
+            20892, USA
+FEATURES             Location/Qualifiers
+     source          1..1182
+                     /organism="Macaca fascicularis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9541"
+     gene            1..1182
+                     /gene="p53"
+     CDS             1..1182
+                     /gene="p53"
+                     /codon_start=1
+                     /product="P53"
+                     /protein_id="AAB91535.1"
+                     /translation="MEEPQSDPSIEPPLSQETFSDLWKLLPENHVLSPLPSQAVDDLM
+                     LSPDDLAQWLTEDPGPDEAPRMSEAAPPMAPTPAAPTPAAPAPAPSWPLSSSVPSQKT
+                     YHGSYGFRLGFLHSGTAKSVTCTYSPDLNKMFCQLAKTCPVQLWVDSTPPPGSRVRAM
+                     AIYKQSQHMTEVVRRCPHHERCSDSDGLAPPQHLIRVEGNLRVEYSDDRNTFRHSVVV
+                     PYEPPEVGSDCTTIHYNYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRNSFEVRVCA
+                     CPGRDRRTEEENFRKKGEPCHQLPPGSTKRALPNNTSSSPQPKKKPLDGEYFTLQIRG
+                     RERFEMFRELNEALELKDAQAGKEPAGSRAHSSHLKSKKGQSTSRHKKFMFKTEGPDS
+                     D"
+ORIGIN      
+        1 atggaggagc cgcagtcaga tcctagcatc gagccccctc tgagtcagga aacattttca
+       61 gacctatgga aactacttcc tgaaaaccac gttctgtccc ccttgccatc ccaagcagtg
+      121 gatgatttga tgctgtctcc agacgatctt gcacaatggt taactgaaga cccaggtcca
+      181 gatgaagctc cgagaatgtc agaggctgct ccccccatgg cccccacacc agcagctcct
+      241 acaccagcgg cccctgcacc agccccctcc tggcccctgt catcctctgt cccttcccag
+      301 aaaacctacc atggcagcta cggtttccgt ctgggcttcc tgcattctgg aacagccaag
+      361 tctgtgactt gcacgtactc ccctgacctc aacaagatgt tttgccagct ggccaagacc
+      421 tgccccgtgc agctatgggt tgattccaca cccccacccg gcagccgcgt ccgcgccatg
+      481 gccatctaca agcagtcaca gcacatgacg gaggtcgtga ggcgctgccc ccaccatgag
+      541 cgctgctcag acagcgatgg actggcccct cctcagcacc ttatccgagt ggaaggaaat
+      601 ttgcgtgtgg agtattcgga tgacagaaac acttttcgac atagtgtggt ggtgccctat
+      661 gagccgcctg aggttggctc tgactgtacc accatccact acaactacat gtgtaacagt
+      721 tcctgcatgg gcggcatgaa ccggaggccc atccttacca ttatcacact ggaagactcc
+      781 agtggtaatc tactgggacg gaacagcttt gaggtgcgag tttgtgcctg tcctgggaga
+      841 gaccggcgca cagaggaaga gaatttccgc aagaaagggg agccttgcca ccagctgccc
+      901 cctgggagca ctaagcgagc actgcccaac aacaccagct cctctcccca gccaaagaag
+      961 aaaccactgg atggagaata tttcaccctt cagatccgtg ggcgtgagcg cttcgagatg
+     1021 ttccgagagc tgaatgaggc cttggaactc aaggatgccc aggctgggaa agaaccagcg
+     1081 gggagcaggg ctcactccag ccacctgaag tccaagaagg ggcaatctac ctcccgccat
+     1141 aaaaaattca tgttcaagac agaggggcct gactcagact ga
+//
+

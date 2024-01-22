@@ -1,0 +1,1032 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Thymine - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"f1532930-9b5b-49e8-9385-75dec1221b30","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thymine","wgTitle":"Thymine","wgCurRevisionId":1163337620,"wgRevisionId":1163337620,"wgArticleId":58550,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Articles with short description","Short description is different from Wikidata","Articles without InChI source","Articles without KEGG source","ECHA InfoCard ID from Wikidata","Articles containing unverified chemical infoboxes","Chembox image size set","Short description matches Wikidata","Nucleobases","Pyrimidinediones"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Thymine",
+"wgRelevantArticleId":58550,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q171973","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,
+"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","skins.vector.zebra.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.toggleAllCollapsibles","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.zebra.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.13">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Thymin.svg/1200px-Thymin.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1027">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Thymin.svg/800px-Thymin.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="684">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Thymin.svg/640px-Thymin.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="548">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Thymine - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Thymine">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Thymine&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Thymine">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Thymine rootpage-Thymine skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thymine" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Thymine" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thymine" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Thymine" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Derivation"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Derivation">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Derivation</div>
+		</a>
+		
+		<ul id="toc-Derivation-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Thymine_imbalance_causes_mutation"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Thymine_imbalance_causes_mutation">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Thymine imbalance causes mutation</div>
+		</a>
+		
+		<ul id="toc-Thymine_imbalance_causes_mutation-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Theoretical_aspects"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Theoretical_aspects">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Theoretical aspects</div>
+		</a>
+		
+		<ul id="toc-Theoretical_aspects-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Synthesis"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Synthesis">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Synthesis</div>
+		</a>
+		
+			<button aria-controls="toc-Synthesis-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Synthesis subsection</span>
+			</button>
+		
+		<ul id="toc-Synthesis-sublist" class="vector-toc-list">
+			<li id="toc-Laboratory_synthesis"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Laboratory_synthesis">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Laboratory synthesis</div>
+			</a>
+			
+			<ul id="toc-Laboratory_synthesis-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Thymine</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 63 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-63" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">63 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AB%D8%A7%D9%8A%D9%85%D9%8A%D9%86" title="ثايمين – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Timin" title="Timin – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D8%AA%DB%8C%D9%88%D9%85%DB%8C%D9%86" title="تیومین – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A5%E0%A6%BE%E0%A6%87%E0%A6%AE%E0%A6%BF%E0%A6%A8" title="থাইমিন – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Thymin" title="Thymin – Min Nan Chinese" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BC%D1%96%D0%BD" title="Тымін – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B8%D0%BD" title="Тимин – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Timin" title="Timin – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Timin" title="Timin – Breton" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Timina" title="Timina – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Thymin" title="Thymin – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Thymin" title="Thymin – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Thymin" title="Thymin – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/T%C3%BCmiin" title="Tümiin – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%98%CF%85%CE%BC%CE%AF%CE%BD%CE%B7" title="Θυμίνη – Greek" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Timina" title="Timina – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Timino" title="Timino – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Timina" title="Timina – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D9%85%DB%8C%D9%86" title="تیمین – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Thymine" title="Thymine – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Timina" title="Timina – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%8B%B0%EB%AF%BC" title="티민 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B9%D5%AB%D5%B4%D5%AB%D5%B6" title="Թիմին – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A5%E0%A4%BE%E0%A4%AF%E0%A4%AE%E0%A4%BF%E0%A4%A8" title="थायमिन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Timin" title="Timin – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Timina" title="Timina – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Timina" title="Timina – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%99%D7%9E%D7%99%D7%9F" title="תימין – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Timin" title="Timin – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%97%E1%83%98%E1%83%9B%E1%83%98%E1%83%9C%E1%83%98" title="თიმინი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B8%D0%BD" title="Тимин – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Thymine" title="Thymine – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/T%C3%AEm%C3%AEn" title="Tîmîn – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Timinas" title="Timinas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Timin" title="Timin – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B8%D0%BD" title="Тимин – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Timina" title="Timina – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Thymine" title="Thymine – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%9F%E3%83%B3" title="チミン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Tymin" title="Tymin – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Timina" title="Timina – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Tymina" title="Tymina – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Timina" title="Timina – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Timin%C4%83" title="Timină – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-rue mw-list-item"><a href="https://rue.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B8%D0%BD" title="Тимин – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target"><span>Русиньскый</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B8%D0%BD" title="Тимин – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Thymine" title="Thymine – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Tym%C3%ADn" title="Tymín – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Timin" title="Timin – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B8%D0%BD" title="Тимин – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Timin" title="Timin – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Tymiini" title="Tymiini – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Tymin" title="Tymin – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Thymine" title="Thymine – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%88%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D" title="தைமின் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%97%E0%B8%A1%E0%B8%B5%E0%B8%99" title="ไทมีน – Thai" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Timin" title="Timin – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D1%96%D0%BD" title="Тимін – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%AA%DA%BE%D8%A7%D8%A6%D9%85%DB%8C%D9%86" title="تھائمین – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Thymine" title="Thymine – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E8%83%B8%E8%85%BA%E5%98%A7%E5%95%B6" title="胸腺嘧啶 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E8%83%B8%E8%85%BA%E5%98%A7%E5%95%B6" title="胸腺嘧啶 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E8%83%B8%E8%85%BA%E5%98%A7%E5%95%B6" title="胸腺嘧啶 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q171973#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Thymine" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Thymine" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Thymine"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Thymine&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Thymine&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Thymine"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Thymine&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Thymine&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Thymine" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Thymine" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Thymine&amp;oldid=1163337620" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Thymine&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Thymine&amp;id=1163337620&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThymine"><span>Get shortened URL</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q171973" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Thymine&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Thymine&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Thymine" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Chemical compound of DNA</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">For the B vitamin whose name sounds and looks similar, see <a href="/wiki/Thiamine" title="Thiamine">Thiamine</a>.</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Thymidine" title="Thymidine">thymidine</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1084375498">.mw-parser-output .ib-chembox{border-collapse:collapse;text-align:left}.mw-parser-output .ib-chembox td,.mw-parser-output .ib-chembox th{border:1px solid #a2a9b1;width:40%}.mw-parser-output .ib-chembox td+td{width:60%}</style>
+<table class="infobox ib-chembox">
+<caption>Thymine
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:Thymin.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Thymin.svg/180px-Thymin.svg.png" decoding="async" width="180" height="154" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Thymin.svg/270px-Thymin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Thymin.svg/360px-Thymin.svg.png 2x" data-file-width="180" data-file-height="154" /></a></span>
+</td></tr>
+
+
+<tr>
+<td colspan="2" class="borderless" style="text-align:center">
+<table border="0" style="width:100%;display:inline-table;">
+<tbody><tr>
+<td style="border-right:1px solid #aaa; width:50%;"><figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:Thymine-3D-balls.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Thymine-3D-balls.png/110px-Thymine-3D-balls.png" decoding="async" width="110" height="92" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Thymine-3D-balls.png/165px-Thymine-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Thymine-3D-balls.png/220px-Thymine-3D-balls.png 2x" data-file-width="1000" data-file-height="836" /></a><figcaption></figcaption></figure>
+</td>
+<td style="width:50%;"><figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:Thymine-3D-vdW.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Thymine-3D-vdW.png/110px-Thymine-3D-vdW.png" decoding="async" width="110" height="92" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Thymine-3D-vdW.png/165px-Thymine-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Thymine-3D-vdW.png/220px-Thymine-3D-vdW.png 2x" data-file-width="1000" data-file-height="836" /></a><figcaption></figcaption></figure>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+
+
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Preferred_IUPAC_name" title="Preferred IUPAC name">Preferred IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0; max-width:22em;">5-Methylpyrimidine-2,4(1<i>H</i>,3<i>H</i>)-dione</div></div>
+</td></tr>
+
+<tr>
+<td colspan="2" style="text-align:left;">Other names
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">5-Methyluracil</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+
+<tr>
+<td><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="plainlist"><ul><li><span title="commonchemistry.cas.org"><a rel="nofollow" class="external text" href="https://commonchemistry.cas.org/detail?cas_rn=65-71-4">65-71-4</a></span><sup>&#160;<span typeof="mw:File"><span><img alt="check" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" decoding="async" width="7" height="7" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">3D model (<a href="/wiki/JSmol" class="mw-redirect" title="JSmol">JSmol</a>)</div>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a rel="nofollow" class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=O%3DC1NC%28%3DO%29NC%3DC1C">Interactive image</a></span></li></ul></div>
+</td></tr>
+
+
+
+<tr>
+<td><a href="/wiki/ChEBI" title="ChEBI">ChEBI</a>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=17821">CHEBI:17821</a></span><sup>&#160;<span typeof="mw:File"><span><img alt="check" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" decoding="async" width="7" height="7" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChEMBL" title="ChEMBL">ChEMBL</a>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a rel="nofollow" class="external text" href="https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL993">ChEMBL993</a></span><sup>&#160;<span typeof="mw:File"><span><img alt="check" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" decoding="async" width="7" height="7" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li><span title="www.chemspider.com"><a rel="nofollow" class="external text" href="https://www.chemspider.com/Chemical-Structure.1103.html">1103</a></span><sup>&#160;<span typeof="mw:File"><span><img alt="check" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" decoding="async" width="7" height="7" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/ECHA_InfoCard" class="mw-redirect" title="ECHA InfoCard"><span title="echa.europa.eu">ECHA InfoCard</span></a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://echa.europa.eu/substance-information/-/substanceinfo/100.000.560">100.000.560</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q171973#P2566" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span>
+</td></tr>
+
+
+
+<tr>
+<td><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><a href="/wiki/IUPHAR/BPS" class="mw-redirect" title="IUPHAR/BPS">IUPHAR/BPS</a></div>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li><span title="www.guidetopharmacology.org"><a rel="nofollow" class="external text" href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?tab=summary&amp;ligandId=4581">4581</a></span></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a>
+</td>
+<td><span title="www.nlm.nih.gov"><a rel="nofollow" class="external text" href="https://www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?mode=&amp;term=Thymine">Thymine</a></span>
+</td></tr>
+<tr>
+<td><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a rel="nofollow" class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/1135">1135</a></span></li></ul></div>
+</td></tr>
+
+<tr>
+<td><a href="/wiki/Unique_Ingredient_Identifier" title="Unique Ingredient Identifier">UNII</a>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li><span title="precision.fda.gov"><a rel="nofollow" class="external text" href="https://precision.fda.gov/uniisearch/srs/unii/QR26YLT7LT">QR26YLT7LT</a></span><sup>&#160;<span typeof="mw:File"><span><img alt="check" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" decoding="async" width="7" height="7" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+
+<tr>
+<td><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><a href="/wiki/CompTox_Chemicals_Dashboard" title="CompTox Chemicals Dashboard">CompTox Dashboard</a> <span style="font-weight:normal">(<abbr title="U.S. Environmental Protection Agency">EPA</abbr>)</span></div>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409"><div class="plainlist"><ul><li><span title="comptox.epa.gov"><a rel="nofollow" class="external text" href="https://comptox.epa.gov/dashboard/chemical/details/DTXSID4052342">DTXSID4052342</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q171973#P3117" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></span></li></ul></div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="collapsible-list mw-collapsible mw-collapsed" style="text-align: left;">
+<div style="line-height: 1.6em; font-weight: bold; text-align:left; font-weight:normal; background:transparent;"><div><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div></div>
+<ul class="mw-collapsible-content" style="margin-top: 0; margin-bottom: 0; line-height: inherit; list-style: none; margin-left: 0; word-break:break-all;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:97%; line-height:120%;">InChI=1S/C5H6N2O2/c1-3-2-6-5(9)7-4(3)8/h2H,1H3,(H2,6,7,8,9)<sup>&#160;<span typeof="mw:File"><span><img alt="check" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" decoding="async" width="7" height="7" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none">Y</span></sup></div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:97%; line-height:120%;">Key:&#160;RWQNBRDOKXIBIV-UHFFFAOYSA-N<sup>&#160;<span typeof="mw:File"><span><img alt="check" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" decoding="async" width="7" height="7" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none">Y</span></sup></div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="collapsible-list mw-collapsible mw-collapsed" style="text-align: left;">
+<div style="line-height: 1.6em; font-weight: bold; text-align:left; font-weight:normal; background:transparent;"><div><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div></div>
+<ul class="mw-collapsible-content" style="margin-top: 0; margin-bottom: 0; line-height: inherit; list-style: none; margin-left: 0; word-break:break-all;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:97%; line-height:120%;">O=C1NC(=O)NC=C1C</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td><span title="Carbon">C</span><sub>5</sub><span title="Hydrogen">H</span><sub>6</sub><span title="Nitrogen">N</span><sub>2</sub><span title="Oxygen">O</span><sub>2</sub>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td><span class="nowrap"><span data-sort-value="7002126115000000000♠"></span>126.115</span>&#160;g·mol<sup>−1</sup> &#x20;
+</td></tr>
+
+
+<tr>
+<td><a href="/wiki/Density" title="Density">Density</a>
+</td>
+<td>1.223 g cm<sup>−3</sup> (calculated)
+</td></tr>
+<tr>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>
+</td>
+<td>316 to 317&#160;°C (601 to 603&#160;°F; 589 to 590&#160;K)
+</td></tr>
+<tr>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td>
+<td>335&#160;°C (635&#160;°F; 608&#160;K) (decomposes)
+</td></tr>
+
+
+<tr>
+<td><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;"><a href="/wiki/Aqueous_solution" title="Aqueous solution">Solubility in water</a></div>
+</td>
+<td>3.82 g/L<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td><a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">Acidity</a> (p<i>K</i><sub>a</sub>)
+</td>
+<td>9.7
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba; border:1px solid #a2a9b1;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25&#160;°C [77&#160;°F], 100&#160;kPa).</div>
+<div style="margin-top: 0.3em;"></div>
+<div style="margin-top: 0.3em; text-align: center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox references</a></div>
+</td></tr>
+
+</tbody></table><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Chemical compound</div>
+<p><b>Thymine</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt" lang="en-fonipa"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="/θ/: &#39;th&#39; in &#39;thigh&#39;">θ</span><span title="/aɪ/: &#39;i&#39; in &#39;tide&#39;">aɪ</span><span title="&#39;m&#39; in &#39;my&#39;">m</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;n&#39; in &#39;nigh&#39;">n</span></span>/</a></span></span>) (<a href="/wiki/Nucleoside#List_of_nucleosides_and_corresponding_nucleobases" title="Nucleoside">symbol</a> <b>T</b> or <b>Thy</b>) is one of the four <a href="/wiki/Nucleobase" title="Nucleobase">nucleobases</a> in the <a href="/wiki/Nucleic_acid" title="Nucleic acid">nucleic acid</a> of <a href="/wiki/DNA" title="DNA">DNA</a> that are represented by the letters G–C–A–T. The others are <a href="/wiki/Adenine" title="Adenine">adenine</a>, <a href="/wiki/Guanine" title="Guanine">guanine</a>, and <a href="/wiki/Cytosine" title="Cytosine">cytosine</a>.  Thymine is also known as <b>5-methyluracil,</b> a <a href="/wiki/Pyrimidine" title="Pyrimidine">pyrimidine</a> nucleobase. In <a href="/wiki/RNA" title="RNA">RNA</a>, thymine is replaced by the nucleobase <a href="/wiki/Uracil" title="Uracil">uracil</a>.  Thymine was first isolated in 1893 by <a href="/wiki/Albrecht_Kossel" title="Albrecht Kossel">Albrecht Kossel</a> and Albert Neumann from calf <a href="/wiki/Thymus" title="Thymus">thymus</a> glands, hence its name.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Derivation">Derivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thymine&amp;action=edit&amp;section=1" title="Edit section: Derivation"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As its alternate name (5-methyluracil) suggests, thymine may be derived by <a href="/wiki/Methylation" title="Methylation">methylation</a> of uracil at the 5th carbon. In <a href="/wiki/RNA" title="RNA">RNA</a>, thymine is replaced with <a href="/wiki/Uracil" title="Uracil">uracil</a> in most cases.  In DNA, thymine (T) binds to <a href="/wiki/Adenine" title="Adenine">adenine</a> (A) via two hydrogen bonds, thereby stabilizing the nucleic acid structures.
+</p><p>Thymine combined with <a href="/wiki/Deoxyribose" title="Deoxyribose">deoxyribose</a> creates the <a href="/wiki/Nucleoside" title="Nucleoside">nucleoside</a> <a href="/wiki/Deoxythymidine" class="mw-redirect" title="Deoxythymidine">deoxythymidine</a>, which is synonymous with the term <a href="/wiki/Thymidine" title="Thymidine">thymidine</a>. Thymidine can be phosphorylated with up to three phosphoric acid groups, producing <a href="/wiki/DTMP" class="mw-redirect" title="DTMP">dTMP</a> (<b>d</b>eoxy<b>t</b>hymidine <b>m</b>ono<b>p</b>hosphate), <a href="/wiki/DTDP" class="mw-redirect" title="DTDP">dTDP</a>, or <a href="/wiki/DTTP" class="mw-redirect" title="DTTP">dTTP</a> (for the <b>d</b>i- and <b>t</b>ri- phosphates, respectively).
+</p><p>One of the common mutations of DNA involves two adjacent thymines or cytosine, which, in presence of <a href="/wiki/Ultraviolet" title="Ultraviolet">ultraviolet light</a>, may form <a href="/wiki/Thymine_dimers" class="mw-redirect" title="Thymine dimers">thymine dimers</a>, causing "kinks" in the DNA molecule that inhibit normal function.
+</p><p>Thymine could also be a target for actions of 5-<a href="/wiki/Fluorouracil" title="Fluorouracil">fluorouracil</a> (5-FU) in <a href="/wiki/Cancer" title="Cancer">cancer</a> treatment. 5-FU can be a metabolic analog of thymine (in DNA synthesis) or uracil (in RNA synthesis).  Substitution of this analog inhibits <a href="/wiki/DNA_replication" title="DNA replication">DNA synthesis</a> in actively dividing cells.
+</p><p>Thymine bases are frequently oxidized to <a href="/wiki/Hydantoin" title="Hydantoin">hydantoins</a> over time after the death of an organism.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Thymine_imbalance_causes_mutation">Thymine imbalance causes mutation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thymine&amp;action=edit&amp;section=2" title="Edit section: Thymine imbalance causes mutation"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During growth of <a href="/wiki/Escherichia_virus_T4" title="Escherichia virus T4">bacteriophage T4</a>, an imbalance of thymine availability, either a deficiency or an excess of thymine, causes increased <a href="/wiki/Mutation" title="Mutation">mutation</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  The mutations caused by thymine deficiency appear to occur only at AT <a href="/wiki/Base_pair" title="Base pair">base pair</a> sites in DNA and are often AT to GC <a href="/wiki/Transition_(genetics)" title="Transition (genetics)">transition mutations</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>   In the bacterium <i><a href="/wiki/Escherichia_coli" title="Escherichia coli">Escherichia coli</a></i>, thymine deficiency was also found to be mutagenic and cause AT to GC transitions.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Theoretical_aspects">Theoretical aspects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thymine&amp;action=edit&amp;section=3" title="Edit section: Theoretical aspects"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In March 2015, NASA scientists reported that, for the first time, complex <a href="/wiki/DNA" title="DNA">DNA</a> and <a href="/wiki/RNA" title="RNA">RNA</a> <a href="/wiki/Organic_compound" title="Organic compound">organic compounds</a> of <a href="/wiki/Life" title="Life">life</a>, including <a href="/wiki/Uracil" title="Uracil">uracil</a>, <a href="/wiki/Cytosine" title="Cytosine">cytosine</a> and thymine, have been formed in the laboratory under <a href="/wiki/Outer_space" title="Outer space">outer space</a> conditions, using starting chemicals, such as <a href="/wiki/Pyrimidine" title="Pyrimidine">pyrimidine</a>, found in <a href="/wiki/Meteorite" title="Meteorite">meteorites</a>. Pyrimidine, like <a href="/wiki/Polycyclic_aromatic_hydrocarbon" title="Polycyclic aromatic hydrocarbon">polycyclic aromatic hydrocarbons</a> (PAHs), another carbon-rich compound, may have been formed in <a href="/wiki/Red_giant" title="Red giant">red giants</a> or in <a href="/wiki/Cosmic_dust" title="Cosmic dust">interstellar dust</a> and gas clouds, according to the scientists.<sup id="cite_ref-NASA-20150303_7-0" class="reference"><a href="#cite_note-NASA-20150303-7">&#91;7&#93;</a></sup> Thymine has not been found in meteorites, which suggests the first strands of DNA had to look elsewhere to obtain this building block. Thymine likely formed within some meteorite parent bodies, but may not have persisted within these bodies due to an <a href="/wiki/Redox" title="Redox">oxidation</a> reaction with <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">hydrogen peroxide</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Synthesis">Synthesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thymine&amp;action=edit&amp;section=4" title="Edit section: Synthesis"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Laboratory_synthesis">Laboratory synthesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thymine&amp;action=edit&amp;section=5" title="Edit section: Laboratory synthesis"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Thymine was first prepared by hydrolysis of the corresponding <a href="/wiki/Nucleoside" title="Nucleoside">nucleoside</a> obtained from natural sources. Interest in its direct chemical synthesis began in the early 1900s: <a href="/wiki/Emil_Fischer" title="Emil Fischer">Emil Fischer</a> published a method starting from <a href="/wiki/Urea" title="Urea">urea</a> but a more practical synthesis used methylisothiourea in a <a href="/wiki/Condensation_reaction" title="Condensation reaction">condensation reaction</a> with ethyl formyl propionate, followed by hydrolysis of the pyrimidine intermediate:<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<dl><dd><span typeof="mw:File"><a href="/wiki/File:Thymine_synthesis_(1903).svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thymine_synthesis_%281903%29.svg/600px-Thymine_synthesis_%281903%29.svg.png" decoding="async" width="600" height="77" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thymine_synthesis_%281903%29.svg/900px-Thymine_synthesis_%281903%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thymine_synthesis_%281903%29.svg/1200px-Thymine_synthesis_%281903%29.svg.png 2x" data-file-width="512" data-file-height="66" /></a></span></dd></dl>
+<p>Many other preparative methods have been developed, including optimised conditions so that urea can be used directly in the reaction shown above, preferably with methyl formyl propionate.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thymine&amp;action=edit&amp;section=6" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1184024115">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col" style="column-width: 20em;">
+<ul><li><a href="/wiki/Deoxyribose" title="Deoxyribose">Deoxyribose</a></li>
+<li><a href="/wiki/Deoxythymidine" class="mw-redirect" title="Deoxythymidine">Deoxythymidine</a></li>
+<li><a href="/wiki/Nucleobase" title="Nucleobase">Nucleobase</a></li>
+<li><a href="/wiki/Pyrimidine" title="Pyrimidine">Pyrimidine</a></li>
+<li><a href="/wiki/Thymineless_death" title="Thymineless death">Thymineless death</a></li>
+<li><a href="/wiki/Uracil" title="Uracil">Uracil</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thymine&amp;action=edit&amp;section=7" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFDannenfelserYalkowsky1991" class="citation journal cs1 cs1-prop-long-vol">Dannenfelser, R.-M.; Yalkowsky, S.H. (December 1991). <a rel="nofollow" class="external text" href="https://www.sciencedirect.com/science/article/abs/pii/004896979190214Y">"Data base of aqueous solubility for organic non-electrolytes"</a>. <i><a href="/wiki/Science_of_the_Total_Environment" title="Science of the Total Environment">Science of the Total Environment</a></i>. 109–110 (C): 625–628. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1991ScTEn.109..625D">1991ScTEn.109..625D</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2F0048-9697%2891%2990214-Y">10.1016/0048-9697(91)90214-Y</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-11-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science+of+the+Total+Environment&amp;rft.atitle=Data+base+of+aqueous+solubility+for+organic+non-electrolytes&amp;rft.volume=109-110&amp;rft.issue=C&amp;rft.pages=625-628&amp;rft.date=1991-12&amp;rft_id=info%3Adoi%2F10.1016%2F0048-9697%2891%2990214-Y&amp;rft_id=info%3Abibcode%2F1991ScTEn.109..625D&amp;rft.aulast=Dannenfelser&amp;rft.aufirst=R.-M.&amp;rft.au=Yalkowsky%2C+S.H.&amp;rft_id=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2F004896979190214Y&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThymine" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFAlbrechtNeumann1893" class="citation journal cs1"><a href="/wiki/Albrecht_Kossel" title="Albrecht Kossel">Albrecht, Kossel</a>; Neumann, Albert (Oct–Dec 1893). <a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k90730p/f455.image">"Ueber das Thymin, ein Spaltungsproduct der Nucleïnsäure"</a> &#91;On thymine, a cleavage product of nucleic acid&#93;. <i><a href="/wiki/Berichte_der_Deutschen_Chemischen_Gesellschaft" class="mw-redirect" title="Berichte der Deutschen Chemischen Gesellschaft">Berichte der Deutschen Chemischen Gesellschaft</a></i>. <b>26</b> (3): 2753–2756. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fcber.18930260379">10.1002/cber.18930260379</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-11-14</span></span>. p.&#160;2754: <q>Wir bezeichnen diese Substanz als Thymin.</q> &#91;We designate this substance as thymine.&#93;</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Berichte+der+Deutschen+Chemischen+Gesellschaft&amp;rft.atitle=Ueber+das+Thymin%2C+ein+Spaltungsproduct+der+Nucle%C3%AFns%C3%A4ure&amp;rft.volume=26&amp;rft.issue=3&amp;rft.pages=2753-2756&amp;rft.date=1893-10%2F1893-12&amp;rft_id=info%3Adoi%2F10.1002%2Fcber.18930260379&amp;rft.aulast=Albrecht&amp;rft.aufirst=Kossel&amp;rft.au=Neumann%2C+Albert&amp;rft_id=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k90730p%2Ff455.image&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThymine" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFHofreiterSerrePoinarKuch2001" class="citation journal cs1">Hofreiter, Michael; Serre, David; <a href="/wiki/Hendrik_Poinar" title="Hendrik Poinar">Poinar, Henrik N.</a>; Kuch, Melanie; <a href="/wiki/Svante_P%C3%A4%C3%A4bo" title="Svante Pääbo">Pääbo, Svante</a> (2001-05-01). "Ancient DNA". <i><a href="/wiki/Nature_Reviews_Genetics" title="Nature Reviews Genetics">Nature Reviews Genetics</a></i>. <b>2</b> (5): 353–359. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2F35072071">10.1038/35072071</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/11331901">11331901</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:205016024">205016024</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Reviews+Genetics&amp;rft.atitle=Ancient+DNA&amp;rft.volume=2&amp;rft.issue=5&amp;rft.pages=353-359&amp;rft.date=2001-05-01&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A205016024%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F11331901&amp;rft_id=info%3Adoi%2F10.1038%2F35072071&amp;rft.aulast=Hofreiter&amp;rft.aufirst=Michael&amp;rft.au=Serre%2C+David&amp;rft.au=Poinar%2C+Henrik+N.&amp;rft.au=Kuch%2C+Melanie&amp;rft.au=P%C3%A4%C3%A4bo%2C+Svante&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThymine" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFBernsteinBernsteinMuftiStrom1972" class="citation journal cs1">Bernstein, Carol; Bernstein, Harris; Mufti, Siraj; Strom, Barbara (October 1972). "Stimulation of mutation in phage T 4 by lesions in gene 32 and by thymidine imbalance". <i><a href="/wiki/Mutat._Res." class="mw-redirect" title="Mutat. Res.">Mutat. Res.</a></i> <b>16</b> (2): 113–119. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2F0027-5107%2872%2990171-6">10.1016/0027-5107(72)90171-6</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/4561494">4561494</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mutat.+Res.&amp;rft.atitle=Stimulation+of+mutation+in+phage+T+4+by+lesions+in+gene+32+and+by+thymidine+imbalance&amp;rft.volume=16&amp;rft.issue=2&amp;rft.pages=113-119&amp;rft.date=1972-10&amp;rft_id=info%3Adoi%2F10.1016%2F0027-5107%2872%2990171-6&amp;rft_id=info%3Apmid%2F4561494&amp;rft.aulast=Bernstein&amp;rft.aufirst=Carol&amp;rft.au=Bernstein%2C+Harris&amp;rft.au=Mufti%2C+Siraj&amp;rft.au=Strom%2C+Barbara&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThymine" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFSmithGreenRipleyDrake1973" class="citation journal cs1">Smith, M. Diane; Green, Ronald R.; Ripley, Lynn S.; <a href="/wiki/John_W._Drake" title="John W. Drake">Drake, John W.</a> (July 1973). <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1212957">"Thymineless mutagenesis in bacteriophage T4"</a>. <i><a href="/wiki/Genetics_(journal)" title="Genetics (journal)">Genetics</a></i>. <b>74</b> (3): 393–403. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1093%2Fgenetics%2F74.3.393">10.1093/genetics/74.3.393</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1212957">1212957</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/4270369">4270369</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Genetics&amp;rft.atitle=Thymineless+mutagenesis+in+bacteriophage+T4&amp;rft.volume=74&amp;rft.issue=3&amp;rft.pages=393-403&amp;rft.date=1973-07&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1212957%23id-name%3DPMC&amp;rft_id=info%3Apmid%2F4270369&amp;rft_id=info%3Adoi%2F10.1093%2Fgenetics%2F74.3.393&amp;rft.aulast=Smith&amp;rft.aufirst=M.+Diane&amp;rft.au=Green%2C+Ronald+R.&amp;rft.au=Ripley%2C+Lynn+S.&amp;rft.au=Drake%2C+John+W.&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1212957&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThymine" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFDeutchPauling1974" class="citation journal cs1">Deutch, Charles E.; Pauling, Crellin (Sep 1974). <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC245692">"Thymineless mutagenesis in Escherichia coli"</a>. <i><a href="/wiki/J._Bacteriol." class="mw-redirect" title="J. Bacteriol.">J. Bacteriol.</a></i> <b>119</b> (3): 861–7. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1128%2FJB.119.3.861-867.1974">10.1128/JB.119.3.861-867.1974</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC245692">245692</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/4605383">4605383</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Bacteriol.&amp;rft.atitle=Thymineless+mutagenesis+in+Escherichia+coli&amp;rft.volume=119&amp;rft.issue=3&amp;rft.pages=861-7&amp;rft.date=1974-09&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC245692%23id-name%3DPMC&amp;rft_id=info%3Apmid%2F4605383&amp;rft_id=info%3Adoi%2F10.1128%2FJB.119.3.861-867.1974&amp;rft.aulast=Deutch&amp;rft.aufirst=Charles+E.&amp;rft.au=Pauling%2C+Crellin&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC245692&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThymine" class="Z3988"></span></span>
+</li>
+<li id="cite_note-NASA-20150303-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-NASA-20150303_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFMarlaire2015" class="citation web cs1">Marlaire, Ruth (2015-03-03). <a rel="nofollow" class="external text" href="http://www.nasa.gov/content/nasa-ames-reproduces-the-building-blocks-of-life-in-laboratory">"NASA Ames Reproduces the Building Blocks of Life in Laboratory"</a>. <i>www.nasa.gov</i>. <a href="/wiki/NASA" title="NASA">NASA</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-11-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nasa.gov&amp;rft.atitle=NASA+Ames+Reproduces+the+Building+Blocks+of+Life+in+Laboratory&amp;rft.date=2015-03-03&amp;rft.aulast=Marlaire&amp;rft.aufirst=Ruth&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Fcontent%2Fnasa-ames-reproduces-the-building-blocks-of-life-in-laboratory&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThymine" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFTasker2016" class="citation web cs1"><a href="/wiki/Elizabeth_J._Tasker" title="Elizabeth J. Tasker">Tasker, Elizabeth</a> (2016-11-10). <a rel="nofollow" class="external text" href="https://blogs.scientificamerican.com/guest-blog/did-the-seeds-of-life-come-from-space/">"Did the Seeds of Life Come from Space?"</a>. <i>blogs.scientificamerican.com</i>. <a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=blogs.scientificamerican.com&amp;rft.atitle=Did+the+Seeds+of+Life+Come+from+Space%3F&amp;rft.date=2016-11-10&amp;rft.aulast=Tasker&amp;rft.aufirst=Elizabeth&amp;rft_id=https%3A%2F%2Fblogs.scientificamerican.com%2Fguest-blog%2Fdid-the-seeds-of-life-come-from-space%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThymine" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFWheelerMerriam1903" class="citation journal cs1">Wheeler, H.I.; Merriam, H.F. (1903). <a rel="nofollow" class="external text" href="https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t72v2dx94&amp;view=1up&amp;seq=17">"On some condensation products of the pseudothioureas: synthesis of uracil, thymine, and similar compounds"</a>. <i>American Chemical Journal</i>. <b>29</b> (5): 478–492.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Chemical+Journal&amp;rft.atitle=On+some+condensation+products+of+the+pseudothioureas%3A+synthesis+of+uracil%2C+thymine%2C+and+similar+compounds.&amp;rft.volume=29&amp;rft.issue=5&amp;rft.pages=478-492&amp;rft.date=1903&amp;rft.aulast=Wheeler&amp;rft.aufirst=H.I.&amp;rft.au=Merriam%2C+H.F.&amp;rft_id=https%3A%2F%2Fbabel.hathitrust.org%2Fcgi%2Fpt%3Fid%3Duc2.ark%3A%2F13960%2Ft72v2dx94%26view%3D1up%26seq%3D17&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThymine" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFGuoShen2014" class="citation journal cs1">Guo, Xianghai; Shen, Jiaxiang (2014). "An environmentally benign approach to the synthesis of thymine via hydroformylation of methyl acrylate". <i>Monatshefte für Chemie - Chemical Monthly</i>. <b>145</b> (4): 657–661. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs00706-013-1128-y">10.1007/s00706-013-1128-y</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:97367180">97367180</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Monatshefte+f%C3%BCr+Chemie+-+Chemical+Monthly&amp;rft.atitle=An+environmentally+benign+approach+to+the+synthesis+of+thymine+via+hydroformylation+of+methyl+acrylate&amp;rft.volume=145&amp;rft.issue=4&amp;rft.pages=657-661&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1007%2Fs00706-013-1128-y&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A97367180%23id-name%3DS2CID&amp;rft.aulast=Guo&amp;rft.aufirst=Xianghai&amp;rft.au=Shen%2C+Jiaxiang&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThymine" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thymine&amp;action=edit&amp;section=8" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://gmd.mpimp-golm.mpg.de/Spectrums/51a54b80-5865-40c0-8275-cf90f70d6331.aspx">Thymine MS Spectrum</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.infoplease.com/ce6/sci/A0848663.html">Infoplease Encyclopedia</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100823233329/http://scienceaid.co.uk/biology/genetics/dna.html">Science Aid: DNA Structure and Replication</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Nucleic_acid_constituents" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Nucleobases,_nucleosides,_and_nucleotides" title="Template:Nucleobases, nucleosides, and nucleotides"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nucleobases,_nucleosides,_and_nucleotides" title="Template talk:Nucleobases, nucleosides, and nucleotides"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Nucleobases,_nucleosides,_and_nucleotides" title="Special:EditPage/Template:Nucleobases, nucleosides, and nucleotides"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Nucleic_acid_constituents" style="font-size:114%;margin:0 4em"><a href="/wiki/Nucleic_acid" title="Nucleic acid">Nucleic acid</a> constituents</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nucleobase" title="Nucleobase">Nucleobase</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Purine" title="Purine">Purine</a>
+<ul><li><a href="/wiki/Adenine" title="Adenine">Adenine</a></li>
+<li><a href="/wiki/Guanine" title="Guanine">Guanine</a></li>
+<li><a href="/wiki/Hypoxanthine" title="Hypoxanthine">Hypoxanthine</a></li>
+<li><a href="/wiki/Xanthine" title="Xanthine">Xanthine</a></li>
+<li><a href="/wiki/Purine_analogue" title="Purine analogue">Purine analogue</a></li></ul></li>
+<li><a href="/wiki/Pyrimidine" title="Pyrimidine">Pyrimidine</a>
+<ul><li><a href="/wiki/Uracil" title="Uracil">Uracil</a></li>
+<li><a class="mw-selflink selflink">Thymine</a></li>
+<li><a href="/wiki/Cytosine" title="Cytosine">Cytosine</a></li>
+<li><a href="/wiki/Pyrimidine_analogue" title="Pyrimidine analogue">Pyrimidine analogue</a></li></ul></li>
+<li><a href="/wiki/Base_pair#Unnatural_base_pair_(UBP)" title="Base pair">Unnatural base pair (UBP)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nucleoside" title="Nucleoside">Nucleoside</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ribonucleoside" title="Ribonucleoside">Ribonucleoside</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adenosine" title="Adenosine">Adenosine</a></li>
+<li><a href="/wiki/Guanosine" title="Guanosine">Guanosine</a></li>
+<li><a href="/wiki/5-Methyluridine" title="5-Methyluridine">5-Methyluridine</a></li>
+<li><a href="/wiki/Uridine" title="Uridine">Uridine</a></li>
+<li><a href="/wiki/5-Methylcytidine" title="5-Methylcytidine">5-Methylcytidine</a></li>
+<li><a href="/wiki/Cytidine" title="Cytidine">Cytidine</a></li>
+<li><a href="/wiki/Pseudouridine" title="Pseudouridine">Pseudouridine</a></li>
+<li><a href="/wiki/Inosine" title="Inosine">Inosine</a></li>
+<li><a href="/wiki/N6-Methyladenosine" title="N6-Methyladenosine"><i>N</i><sup>6</sup>-Methyladenosine</a></li>
+<li><a href="/wiki/Xanthosine" title="Xanthosine">Xanthosine</a></li>
+<li><a href="/wiki/Wybutosine" title="Wybutosine">Wybutosine</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Deoxyribonucleoside" class="mw-redirect" title="Deoxyribonucleoside">Deoxyribonucleoside</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Deoxyadenosine" title="Deoxyadenosine">Deoxyadenosine</a></li>
+<li><a href="/wiki/Deoxyguanosine" title="Deoxyguanosine">Deoxyguanosine</a></li>
+<li><a href="/wiki/Thymidine" title="Thymidine">Thymidine</a></li>
+<li><a href="/wiki/Deoxyuridine" title="Deoxyuridine">Deoxyuridine</a></li>
+<li><a href="/wiki/Deoxycytidine" title="Deoxycytidine">Deoxycytidine</a></li>
+<li><a href="/w/index.php?title=Deoxyinosine&amp;action=edit&amp;redlink=1" class="new" title="Deoxyinosine (page does not exist)">Deoxyinosine</a></li>
+<li><a href="/w/index.php?title=Deoxyxanthosine&amp;action=edit&amp;redlink=1" class="new" title="Deoxyxanthosine (page does not exist)">Deoxyxanthosine</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nucleotide" title="Nucleotide">Nucleotide</a><br />(Nucleoside monophosphate)</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ribonucleotide" title="Ribonucleotide">Ribonucleotide</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adenosine_monophosphate" title="Adenosine monophosphate">AMP</a></li>
+<li><a href="/wiki/Guanosine_monophosphate" title="Guanosine monophosphate">GMP</a></li>
+<li><a href="/w/index.php?title=5-Methyluridine_monophosphate&amp;action=edit&amp;redlink=1" class="new" title="5-Methyluridine monophosphate (page does not exist)">m<sup>5</sup>UMP</a></li>
+<li><a href="/wiki/Uridine_monophosphate" title="Uridine monophosphate">UMP</a></li>
+<li><a href="/wiki/Cytidine_monophosphate" title="Cytidine monophosphate">CMP</a></li>
+<li><a href="/wiki/Inosinic_acid" title="Inosinic acid">IMP</a></li>
+<li><a href="/wiki/Xanthosine_monophosphate" title="Xanthosine monophosphate">XMP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Deoxyribonucleotide" title="Deoxyribonucleotide">Deoxyribonucleotide</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Deoxyadenosine_monophosphate" title="Deoxyadenosine monophosphate">dAMP</a></li>
+<li><a href="/wiki/Deoxyguanosine_monophosphate" title="Deoxyguanosine monophosphate">dGMP</a></li>
+<li><a href="/wiki/Thymidine_monophosphate" title="Thymidine monophosphate">dTMP</a></li>
+<li><a href="/wiki/Deoxyuridine_monophosphate" title="Deoxyuridine monophosphate">dUMP</a></li>
+<li><a href="/wiki/Deoxycytidine_monophosphate" title="Deoxycytidine monophosphate">dCMP</a></li>
+<li><a href="/wiki/Deoxyinosine_monophosphate" title="Deoxyinosine monophosphate">dIMP</a></li>
+<li><a href="/w/index.php?title=Deoxyxanthosine_monophosphate&amp;action=edit&amp;redlink=1" class="new" title="Deoxyxanthosine monophosphate (page does not exist)">dXMP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cyclic_nucleotide" title="Cyclic nucleotide">Cyclic nucleotide</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cyclic_adenosine_monophosphate" title="Cyclic adenosine monophosphate">cAMP</a></li>
+<li><a href="/wiki/Cyclic_guanosine_monophosphate" title="Cyclic guanosine monophosphate">cGMP</a></li>
+<li><a href="/wiki/Cyclic_di-GMP" title="Cyclic di-GMP">c-di-GMP</a></li>
+<li><a href="/wiki/Cyclic_di-AMP" title="Cyclic di-AMP">c-di-AMP</a></li>
+<li><a href="/wiki/Cyclic_ADP-ribose" title="Cyclic ADP-ribose">cADPR</a></li>
+<li><a href="/wiki/Cyclic_guanosine_monophosphate%E2%80%93adenosine_monophosphate" title="Cyclic guanosine monophosphate–adenosine monophosphate">cGAMP</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Nucleoside diphosphate</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adenosine_diphosphate" title="Adenosine diphosphate">ADP</a></li>
+<li><a href="/wiki/Guanosine_diphosphate" title="Guanosine diphosphate">GDP</a></li>
+<li><a href="/w/index.php?title=5-Methyluridine_diphosphate&amp;action=edit&amp;redlink=1" class="new" title="5-Methyluridine diphosphate (page does not exist)">m<sup>5</sup>UDP</a></li>
+<li><a href="/wiki/Uridine_diphosphate" title="Uridine diphosphate">UDP</a></li>
+<li><a href="/wiki/Cytidine_diphosphate" title="Cytidine diphosphate">CDP</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Deoxyadenosine_diphosphate" title="Deoxyadenosine diphosphate">dADP</a></li>
+<li><a href="/wiki/Deoxyguanosine_diphosphate" title="Deoxyguanosine diphosphate">dGDP</a></li>
+<li><a href="/wiki/Thymidine_diphosphate" title="Thymidine diphosphate">dTDP</a></li>
+<li><a href="/w/index.php?title=Deoxyuridine_diphosphate&amp;action=edit&amp;redlink=1" class="new" title="Deoxyuridine diphosphate (page does not exist)">dUDP</a></li>
+<li><a href="/wiki/Deoxycytidine_diphosphate" title="Deoxycytidine diphosphate">dCDP</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nucleoside_triphosphate" title="Nucleoside triphosphate">Nucleoside triphosphate</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Adenosine_triphosphate" title="Adenosine triphosphate">ATP</a></li>
+<li><a href="/wiki/Guanosine_triphosphate" title="Guanosine triphosphate">GTP</a></li>
+<li><a href="/wiki/5-Methyluridine_triphosphate" title="5-Methyluridine triphosphate">m<sup>5</sup>UTP</a></li>
+<li><a href="/wiki/Uridine_triphosphate" title="Uridine triphosphate">UTP</a></li>
+<li><a href="/wiki/Cytidine_triphosphate" title="Cytidine triphosphate">CTP</a></li>
+<li><a href="/wiki/Inosine_triphosphate" title="Inosine triphosphate">ITP</a></li>
+<li><a href="/wiki/Xanthosine_triphosphate" title="Xanthosine triphosphate">XTP</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Deoxyadenosine_triphosphate" title="Deoxyadenosine triphosphate">dATP</a></li>
+<li><a href="/wiki/Deoxyguanosine_triphosphate" title="Deoxyguanosine triphosphate">dGTP</a></li>
+<li><a href="/wiki/Thymidine_triphosphate" title="Thymidine triphosphate">dTTP</a></li>
+<li><a href="/w/index.php?title=Deoxyuridine_triphosphate&amp;action=edit&amp;redlink=1" class="new" title="Deoxyuridine triphosphate (page does not exist)">dUTP</a></li>
+<li><a href="/wiki/Deoxycytidine_triphosphate" title="Deoxycytidine triphosphate">dCTP</a></li>
+<li><a href="/w/index.php?title=Deoxyinosine_triphosphate&amp;action=edit&amp;redlink=1" class="new" title="Deoxyinosine triphosphate (page does not exist)">dITP</a></li>
+<li><a href="/w/index.php?title=Deoxyxanthosine_triphosphate&amp;action=edit&amp;redlink=1" class="new" title="Deoxyxanthosine triphosphate (page does not exist)">dXTP</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1496
+Cached time: 20240114082953
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.602 seconds
+Real time usage: 0.787 seconds
+Preprocessor visited node count: 7392/1000000
+Post‐expand include size: 118346/2097152 bytes
+Template argument size: 22587/2097152 bytes
+Highest expansion depth: 25/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 44455/5000000 bytes
+Lua time usage: 0.339/10.000 seconds
+Lua memory usage: 9071029/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  703.746      1 -total
+ 52.74%  371.169      1 Template:Chembox
+ 32.54%  229.000      1 Template:Chembox_Identifiers
+ 18.78%  132.178      1 Template:Reflist
+ 18.68%  131.436     11 Template:Trim
+ 18.25%  128.466      3 Template:Chembox_headerbar
+ 14.56%  102.483      8 Template:Cite_journal
+ 14.55%  102.384     12 Template:Main_other
+ 12.12%   85.316      1 Template:Chembox_Properties
+ 10.77%   75.825      5 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:58550-0!canonical and timestamp 20240114082952 and revision id 1163337620. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thymine&amp;oldid=1163337620">https://en.wikipedia.org/w/index.php?title=Thymine&amp;oldid=1163337620</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nucleobases" title="Category:Nucleobases">Nucleobases</a></li><li><a href="/wiki/Category:Pyrimidinediones" title="Category:Pyrimidinediones">Pyrimidinediones</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_without_InChI_source" title="Category:Articles without InChI source">Articles without InChI source</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:ECHA_InfoCard_ID_from_Wikidata" title="Category:ECHA InfoCard ID from Wikidata">ECHA InfoCard ID from Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li><li><a href="/wiki/Category:Chembox_image_size_set" title="Category:Chembox image size set">Chembox image size set</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 4 July 2023, at 09:00<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Thymine&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1414","wgBackendResponseTime":141,"wgPageParseReport":{"limitreport":{"cputime":"0.602","walltime":"0.787","ppvisitednodes":{"value":7392,"limit":1000000},"postexpandincludesize":{"value":118346,"limit":2097152},"templateargumentsize":{"value":22587,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":44455,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  703.746      1 -total"," 52.74%  371.169      1 Template:Chembox"," 32.54%  229.000      1 Template:Chembox_Identifiers"," 18.78%  132.178      1 Template:Reflist"," 18.68%  131.436     11 Template:Trim"," 18.25%  128.466      3 Template:Chembox_headerbar"," 14.56%  102.483      8 Template:Cite_journal"," 14.55%  102.384     12 Template:Main_other"," 12.12%   85.316      1 Template:Chembox_Properties"," 10.77%   75.825      5 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.339","limit":"10.000"},"limitreport-memusage":{"value":9071029,"limit":52428800}},"cachereport":{"origin":"mw1496","timestamp":"20240114082953","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Thymine","url":"https:\/\/en.wikipedia.org\/wiki\/Thymine","sameAs":"http:\/\/www.wikidata.org\/entity\/Q171973","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q171973","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-06-21T03:42:04Z","dateModified":"2023-07-04T09:00:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/15\/Thymin.svg","headline":"chemical compound"}</script>
+</body>
+</html>
